@@ -1,0 +1,1752 @@
+{
+  "metadata": {
+    "title": "Automobile Insurance Rate Stabilization Act, 2003, S.O. 2003, c. 9",
+    "citation": "Automobile Insurance Rate Stabilization Act, 2003, S.O. 2003, c. 9",
+    "jurisdiction": "Ontario",
+    "last_updated": "2025-03-09",
+    "source_url": "https://www.ontario.ca/laws/statute/03a09"
+  },
+  "structure": [
+    {
+      "id": "section_1",
+      "type": "section",
+      "number": "1",
+      "title": "Definitions",
+      "citation_path": "s. 1",
+      "content": []
+    },
+    {
+      "id": "section_2",
+      "type": "section",
+      "number": "2",
+      "title": "Application of Act",
+      "citation_path": "s. 2",
+      "content": []
+    },
+    {
+      "id": "section_2_1",
+      "type": "section",
+      "number": "2.1",
+      "title": "Industry-wide rate reduction target",
+      "citation_path": "s. 2.1",
+      "content": []
+    },
+    {
+      "id": "section_3",
+      "type": "section",
+      "number": "3",
+      "title": "Application re risk classification system, rates",
+      "citation_path": "s. 3",
+      "content": []
+    },
+    {
+      "id": "section_4",
+      "type": "section",
+      "number": "4",
+      "title": "Suspension of applications under Insurance Act",
+      "citation_path": "s. 4",
+      "content": []
+    },
+    {
+      "id": "section_7",
+      "type": "section",
+      "number": "7",
+      "title": "Order requiring application for approval",
+      "citation_path": "s. 7",
+      "content": []
+    },
+    {
+      "id": "section_7_1",
+      "type": "section",
+      "number": "7.1",
+      "title": "Reconsideration by Chief Executive Officer",
+      "citation_path": "s. 7.1",
+      "content": []
+    },
+    {
+      "id": "section_8",
+      "type": "section",
+      "number": "8",
+      "title": "Mandatory rate",
+      "citation_path": "s. 8",
+      "content": []
+    },
+    {
+      "id": "section_9",
+      "type": "section",
+      "number": "9",
+      "title": "Deemed approval under the Insurance Act",
+      "citation_path": "s. 9",
+      "content": []
+    },
+    {
+      "id": "section_10",
+      "type": "section",
+      "number": "10",
+      "title": "Chief Executive Officer may investigate",
+      "citation_path": "s. 10",
+      "content": []
+    },
+    {
+      "id": "section_11",
+      "type": "section",
+      "number": "11",
+      "title": "Chief Executive Officer’s order after contravention of Act",
+      "citation_path": "s. 11",
+      "content": []
+    },
+    {
+      "id": "section_11_1",
+      "type": "section",
+      "number": "11.1",
+      "title": "Definition",
+      "citation_path": "s. 11.1",
+      "content": []
+    },
+    {
+      "id": "section_11_2",
+      "type": "section",
+      "number": "11.2",
+      "title": "Administrative penalties",
+      "citation_path": "s. 11.2",
+      "content": []
+    },
+    {
+      "id": "section_11_3",
+      "type": "section",
+      "number": "11.3",
+      "title": "General administrative penalties",
+      "citation_path": "s. 11.3",
+      "content": []
+    },
+    {
+      "id": "section_11_4",
+      "type": "section",
+      "number": "11.4",
+      "title": "Summary administrative penalties",
+      "citation_path": "s. 11.4",
+      "content": []
+    },
+    {
+      "id": "section_11_5",
+      "type": "section",
+      "number": "11.5",
+      "title": "Maximum administrative penalties",
+      "citation_path": "s. 11.5",
+      "content": []
+    },
+    {
+      "id": "section_11_6",
+      "type": "section",
+      "number": "11.6",
+      "title": "Enforcement of administrative penalties",
+      "citation_path": "s. 11.6",
+      "content": []
+    },
+    {
+      "id": "section_11_7",
+      "type": "section",
+      "number": "11.7",
+      "title": "Regulations",
+      "citation_path": "s. 11.7",
+      "content": []
+    },
+    {
+      "id": "section_12",
+      "type": "section",
+      "number": "12",
+      "title": "Offences",
+      "citation_path": "s. 12",
+      "content": []
+    },
+    {
+      "id": "section_13",
+      "type": "section",
+      "number": "13",
+      "title": "Notices",
+      "citation_path": "s. 13",
+      "content": []
+    },
+    {
+      "id": "section_14",
+      "type": "section",
+      "number": "14",
+      "title": "Repeal",
+      "citation_path": "s. 14",
+      "content": [
+        {
+          "id": "section_14_text_0",
+          "type": "headnote",
+          "text": "Definitions",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_1",
+          "type": "section",
+          "text": "1(1) In this Act,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_2",
+          "type": "definition",
+          "text": "“authorized rate” means, in respect of a contract of automobile insurance, the rate the insurer is authorized under this Act to charge on the issue or renewal of the contract; (“taux autorisé”)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_3",
+          "type": "definition",
+          "text": "“insurer” means a person who undertakes or agrees or offers to undertake a contract of automobile insurance and includes the Facility Association. (“assureur”)2003, c. 9, s. 1;2005, c. 31, Sched. 2, s. 1;2013, c. 2, Sched. 1, s. 1 (1).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_4",
+          "type": "headnote",
+          "text": "Interpretation",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_5",
+          "type": "section",
+          "text": "(2) Expressions used in this Act have the same meaning as in theInsurance Act, unless the context requires otherwise.2013, c. 2, Sched. 1, s. 1 (2).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_6",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_7",
+          "type": "unknown",
+          "text": "2005, c. 31, Sched. 2, s. 1- 15/12/2005",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_8",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 1 (1, 2)- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_9",
+          "type": "headnote",
+          "text": "Application of Act",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_10",
+          "type": "section",
+          "text": "2(1) This Act applies to insurers and contracts of automobile insurance, but only with respect to the Personal Vehicles — Private Passenger Automobile category of automobile insurance.2013, c. 2, Sched. 1, s. 2 (1).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_11",
+          "type": "headnote",
+          "text": "Same",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_12",
+          "type": "section",
+          "text": "(2) This Act does not apply to an insurer in respect of any category or coverage of automobile insurance for which the insurer is not required to make an application for approval under section 410 of theInsurance Actby reason of an exemption granted under subsection 413 (1) of that Act.2003, c. 9, s. 2 (2).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_13",
+          "type": "section",
+          "text": "(3)Repealed:2013, c. 2, Sched. 1, s. 2 (2).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_14",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_15",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 2 (1, 2)- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_16",
+          "type": "headnote",
+          "text": "Industry-wide rate reduction target",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_17",
+          "type": "section",
+          "text": "2.1(1) This section establishes an industry-wide target for the reduction of rates that insurers are permitted to charge for the Personal Vehicles — Private Passenger Automobile category of automobile insurance.2013, c. 2, Sched. 1, s. 3.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_18",
+          "type": "headnote",
+          "text": "Target",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_19",
+          "type": "section",
+          "text": "(2) The target is a 15 per cent reduction in the average of the authorized rates that may be charged by all insurers.  The average is to be determined in accordance with the regulations, and the reduction must be achieved during the period prescribed by regulation.2013, c. 2, Sched. 1, s. 3.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_20",
+          "type": "headnote",
+          "text": "Periodic reductions",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_21",
+          "type": "section",
+          "text": "(3) The regulations may provide for periodic reductions toward the target and may specify the period within which each such reduction must be achieved.2013, c. 2, Sched. 1, s. 3.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_22",
+          "type": "headnote",
+          "text": "Applications by insurers",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_23",
+          "type": "section",
+          "text": "(4) When making an application under section 3 or 7 or making written submissions under section 7.1, every insurer is required to propose a risk classification system and rates that contribute adequately to the achievement of the target.2013, c. 2, Sched. 1, s. 3.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_24",
+          "type": "headnote",
+          "text": "Contribution to achieving the target",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_25",
+          "type": "section",
+          "text": "(5) When making a decision under section 3, 7 or 7.1, the Chief Executive Officer shall consider such factors as may be prescribed by regulation and such other factors as the Chief Executive Officer considers reasonable in determining whether an insurer’s risk classification system and rates contribute adequately to the achievement of the target.2013, c. 2, Sched. 1, s. 3;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_26",
+          "type": "headnote",
+          "text": "Presumption, consistency with rate reduction target",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_27",
+          "type": "section",
+          "text": "(6) For the purposes of clauses 3 (5) (a), 7 (7) (a) and 7.1 (1) (a), an insurer’s current or proposed risk classification system and rates are presumed not to be just and reasonable if, in the Chief Executive Officer’s opinion, they do not contribute adequately to the achievement of the target.2013, c. 2, Sched. 1, s. 3;2018, c. 17, Sched. 4, s. 1, 2.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_28",
+          "type": "headnote",
+          "text": "Presumption, safe driving history",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_29",
+          "type": "section",
+          "text": "(7) For the purposes of clauses 3 (5) (a), 7 (7) (a) and 7.1 (1) (a), an insurer’s current or proposed risk classification system is presumed not to be just and reasonable unless it includes one or more elements that, in the Chief Executive Officer’s opinion, appropriately take into account the safe driving history of the persons who would be insured under a contract.2013, c. 2, Sched. 1, s. 3;2018, c. 17, Sched. 4, s. 1, 2.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_30",
+          "type": "headnote",
+          "text": "Regulations",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_31",
+          "type": "section",
+          "text": "(8) The Lieutenant Governor in Council may make the regulations referred to in this section.2013, c. 2, Sched. 1, s. 3.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_32",
+          "type": "headnote",
+          "text": "Referral of regulations to Standing Committee",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_33",
+          "type": "section",
+          "text": "(9) Each of the following regulations stands permanently referred to the Standing Committee on General Government (established under the Standing Orders of the Assembly) when the regulation is filed with the Registrar of Regulations under section 18 of theLegislation Act, 2006:",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_34",
+          "type": "paragraph",
+          "text": "1. Every regulation referred to in subsection (2) concerning the average of the authorized rates that may be charged by all insurers and concerning the period within which the 15 per cent reduction in the average of the authorized rates must be achieved.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_35",
+          "type": "paragraph",
+          "text": "2. Every regulation referred to in subsection (3) concerning periodic reductions toward the target and the period within which each such reduction must be achieved.2013, c. 2, Sched. 1, s. 3.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_36",
+          "type": "headnote",
+          "text": "Terms of reference",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_37",
+          "type": "section",
+          "text": "(10) The Standing Committee may examine the regulations with particular reference to whether they are reasonable in the circumstances and with respect to such other matters as the Standing Committee considers appropriate.2013, c. 2, Sched. 1, s. 3.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_38",
+          "type": "headnote",
+          "text": "Authority to call persons",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_39",
+          "type": "section",
+          "text": "(11) The Standing Committee may examine any member of the Executive Council or any public servant designated by the member respecting the regulations.2013, c. 2, Sched. 1, s. 3.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_40",
+          "type": "headnote",
+          "text": "Report",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_41",
+          "type": "section",
+          "text": "(12) The Standing Committee shall report its observations, opinions and recommendations about the regulations to the Assembly from time to time.2013, c. 2, Sched. 1, s. 3.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_42",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_43",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 3- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_44",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1, 2- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_45",
+          "type": "headnote",
+          "text": "Application re risk classification system, rates",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_46",
+          "type": "section",
+          "text": "3(1) Every insurer shall apply to the Chief Executive Officer for approval of,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) the risk classification system it intends to use in determining the rates for each coverage for the Personal Vehicles — Private Passenger Automobile category of automobile insurance; and",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) the rates it intends to use for each coverage for that category of automobile insurance.2013, c. 2, Sched. 1, s. 4;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_text_49",
+          "type": "headnote",
+          "text": "Material to be furnished",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_50",
+          "type": "section",
+          "text": "(2) An application for approval of a risk classification system or rates shall be in a form approved by the Chief Executive Officer and shall be filed together with such information, material and evidence as the Chief Executive Officer may specify.2013, c. 2, Sched. 1, s. 4;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_51",
+          "type": "headnote",
+          "text": "Additional information",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_52",
+          "type": "section",
+          "text": "(3) The Chief Executive Officer may require an applicant to provide such additional information, material and evidence as the Chief Executive Officer considers necessary in order to make a decision with respect to the application.2013, c. 2, Sched. 1, s. 4;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_53",
+          "type": "headnote",
+          "text": "Chief Executive Officer’s powers",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_54",
+          "type": "section",
+          "text": "(4) The Chief Executive Officer may make one or more of the following decisions with respect to an application:",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_55",
+          "type": "paragraph",
+          "text": "1. Approve all or part of the application.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_56",
+          "type": "paragraph",
+          "text": "2. Refuse to approve all or part of the application.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_57",
+          "type": "paragraph",
+          "text": "3. Require the applicant to vary one or more of the elements of its proposed risk classification system.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_58",
+          "type": "paragraph",
+          "text": "4. Require the applicant to reduce or otherwise vary one or more of its proposed rates.2013, c. 2, Sched. 1, s. 4;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_59",
+          "type": "headnote",
+          "text": "Criteria for refusal to approve, etc.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_60",
+          "type": "section",
+          "text": "(5) The Chief Executive Officer shall refuse to approve all or part of an application and may require the applicant to vary one or more of the elements of its proposed risk classification system or to reduce or vary one or more of its proposed rates if, in the Chief Executive Officer’s opinion,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) the proposed risk classification system or proposed rate is not just and reasonable in the circumstances;",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) the proposed risk classification system is not reasonably predictive of risk or does not distinguish fairly between risks;",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_para_c",
+          "type": "paragraph",
+          "letter": "c",
+          "text": "(c) the proposed rates would impair the applicant’s solvency; or",
+          "citation_path": "s. 14, para. (c)"
+        },
+        {
+          "id": "section_14_para_d",
+          "type": "paragraph",
+          "letter": "d",
+          "text": "(d) the proposed rates are excessive in relation to the applicant’s financial circumstances.2013, c. 2, Sched. 1, s. 4;2018, c. 17, Sched. 4, s. 1, 2.",
+          "citation_path": "s. 14, para. (d)"
+        },
+        {
+          "id": "section_14_text_65",
+          "type": "headnote",
+          "text": "Deemed approval",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_66",
+          "type": "section",
+          "text": "(6) An application under this section is deemed to have been approved by the Chief Executive Officer 60 days after the later of the following days, unless the Chief Executive Officer advises the applicant orally or otherwise within that 60-day period that the Chief Executive Officer has not approved the application:",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_67",
+          "type": "paragraph",
+          "text": "1. The day the application is filed.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_68",
+          "type": "paragraph",
+          "text": "2. The day the additional information, material and evidence, if any, required by the Chief Executive Officer under subsection (3) is provided.2013, c. 2, Sched. 1, s. 4;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_69",
+          "type": "headnote",
+          "text": "Decision final",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_70",
+          "type": "section",
+          "text": "(7) A decision, or deemed decision, of the Chief Executive Officer is final for all purposes.2013, c. 2, Sched. 1, s. 4;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_71",
+          "type": "headnote",
+          "text": "Applications by affiliates",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_72",
+          "type": "section",
+          "text": "(8) Section 414 of theInsurance Actapplies with necessary modifications to applications under this section.2013, c. 2, Sched. 1, s. 4.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_73",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_74",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 4- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_75",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1, 2- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_76",
+          "type": "headnote",
+          "text": "Suspension of applications underInsurance Act",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_77",
+          "type": "section",
+          "text": "4(1) No insurer shall apply to the Chief Executive Officer under section 410 of theInsurance Actfor approval of a risk classification system or rates for the Personal Vehicles — Private Passenger Automobile category of automobile insurance.2013, c. 2, Sched. 1, s. 5;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_78",
+          "type": "headnote",
+          "text": "Same",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_79",
+          "type": "section",
+          "text": "(2) No insurer shall submit or resubmit an application to the Chief Executive Officer under subsection 411 (5) of theInsurance Actfor approval of a risk classification system or rates for the Personal Vehicles — Private Passenger Automobile category of automobile insurance.2013, c. 2, Sched. 1, s. 5;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_80",
+          "type": "headnote",
+          "text": "Suspension of approvals",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_81",
+          "type": "section",
+          "text": "(3) The Chief Executive Officer shall not approve an application under section 410 of theInsurance Act, or an application submitted or resubmitted under subsection 411 (5) of that Act, for approval of a risk classification system or rates for the Personal Vehicles — Private Passenger Automobile category of automobile insurance.2013, c. 2, Sched. 1, s. 5;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_82",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_83",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 5- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_84",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_85",
+          "type": "section",
+          "text": "5Repealed:2013, c. 2, Sched. 1, s. 6.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_86",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_87",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 6- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_88",
+          "type": "section",
+          "text": "6Repealed:2013, c. 2, Sched. 1, s. 6.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_89",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_90",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 6- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_91",
+          "type": "headnote",
+          "text": "Order requiring application for approval",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_92",
+          "type": "section",
+          "text": "7(1) The Chief Executive Officer may order any insurer that is subject to this Act to apply to the Chief Executive Officer for approval of,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) the risk classification system it intends to use, as of the date specified in the order, in determining the rates for each coverage for the Personal Vehicles — Private Passenger Automobile category of automobile insurance; and",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) the rates it intends to use, as of the date specified in the order, for each coverage for that category of automobile insurance.2013, c. 2, Sched. 1, s. 7 (1);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_text_95",
+          "type": "section",
+          "text": "(2)Repealed:2013, c. 2, Sched. 1, s. 7 (2).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_96",
+          "type": "headnote",
+          "text": "Application",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_97",
+          "type": "section",
+          "text": "(3) On receipt of an order under subsection (1), an insurer shall make the application  in a form approved by the Chief Executive Officer and shall, on or before the date specified in the order, file the application together with such information, material and evidence as the Chief Executive Officer may require in the order.2003, c. 9, s. 7 (3);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_98",
+          "type": "section",
+          "text": "(4)Repealed:2003, c. 9, s. 14.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_99",
+          "type": "headnote",
+          "text": "Additional information",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_100",
+          "type": "section",
+          "text": "(5) The Chief Executive Officer may require an applicant to provide such additional information, material and evidence as the Chief Executive Officer considers necessary in order to make a decision with respect to the application.2003, c. 9, s. 7 (5);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_101",
+          "type": "headnote",
+          "text": "Chief Executive Officer’s powers",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_102",
+          "type": "section",
+          "text": "(6) After considering an application and any additional information, material or evidence relating to the application, the Chief Executive Officer may do one or more of the following:",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_103",
+          "type": "paragraph",
+          "text": "1. Approve all or part of the application.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_104",
+          "type": "paragraph",
+          "text": "2. Refuse to approve all or part of the application.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_105",
+          "type": "paragraph",
+          "text": "3. Require the applicant to reduce or otherwise vary one or more of its current or proposed rates.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_106",
+          "type": "paragraph",
+          "text": "4. Require the applicant to vary one or more of the elements of its current or proposed risk classification systems.2003, c. 9, s. 7 (6);2013, c. 2, Sched. 1, s. 7 (3);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_107",
+          "type": "headnote",
+          "text": "Criteria for refusal to approve, etc.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_108",
+          "type": "section",
+          "text": "(7) The Chief Executive Officer shall refuse to approve all or part of an application and may require the applicant to vary one or more of the elements of its current or proposed risk classification system or to reduce or vary one or more of its current or proposed rates if, in the Chief Executive Officer’s opinion,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) the proposed risk classification system or proposed rate is not just and reasonable in the circumstances;",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) the proposed risk classification system is not reasonably predictive of risk or does not distinguish fairly between risks;",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_para_c",
+          "type": "paragraph",
+          "letter": "c",
+          "text": "(c) the proposed rates would impair the applicant’s solvency; or",
+          "citation_path": "s. 14, para. (c)"
+        },
+        {
+          "id": "section_14_para_d",
+          "type": "paragraph",
+          "letter": "d",
+          "text": "(d) the proposed rates are excessive in relation to the applicant’s financial circumstances.2013, c. 2, Sched. 1, s. 7 (4);2018, c. 17, Sched. 4, s. 1, 2.",
+          "citation_path": "s. 14, para. (d)"
+        },
+        {
+          "id": "section_14_text_113",
+          "type": "headnote",
+          "text": "Written submissions",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_114",
+          "type": "section",
+          "text": "(8) The Chief Executive Officer shall give the insurer an opportunity to make written submissions before making an order refusing to approve all or part of an application or requiring the insurer to vary one or more of the elements of its current or proposed risk classification system or requiring the insurer to reduce or vary one or more if its current or proposed rates.2013, c. 2, Sched. 1, s. 7 (5);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_115",
+          "type": "headnote",
+          "text": "Time for making order",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_116",
+          "type": "section",
+          "text": "(9) The Chief Executive Officer shall make an order in respect of an application under this section not more than 60days after the later of,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) the day the application is filed; or",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) the day the additional information, material or evidence is provided, if the Chief Executive Officer has required the applicant to provide additional information, material or evidence under subsection (5).2003, c. 9, s. 7 (9);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_text_119",
+          "type": "headnote",
+          "text": "Deemed approval",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_120",
+          "type": "section",
+          "text": "(9.1) An application is deemed to have been approved by the Chief Executive Officer upon the expiry of the 60-day period described in subsection (9) unless the Chief Executive Officer advises the applicant orally or otherwise within that 60-day period that the Chief Executive Officer has not approved the application.2013, c. 2, Sched. 1, s. 7 (6);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_121",
+          "type": "headnote",
+          "text": "Effective date of order",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_122",
+          "type": "section",
+          "text": "(10) An order of the Chief Executive Officer under this section takes effect on the date or dates specified in the order.2003, c. 9, s. 7 (10);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_123",
+          "type": "headnote",
+          "text": "Order final",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_124",
+          "type": "section",
+          "text": "(11) An order of the Chief Executive Officer under subsection (9) is final for all purposes.2003, c. 9, s. 7 (11);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_125",
+          "type": "headnote",
+          "text": "Applications by affiliates",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_126",
+          "type": "section",
+          "text": "(12) Section 414 of theInsurance Actapplies with necessary modifications to applications under this section.2003, c. 9, s. 7 (12).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_127",
+          "type": "headnote",
+          "text": "Concurrent authority",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_128",
+          "type": "section",
+          "text": "(13) The Chief Executive Officer’s authority to make orders under this section in respect of a matter is not affected by his or her authority to make an order under subsection 7.1 (3) in respect of the same matter.2013, c. 2, Sched. 1, s. 7 (7);2018, c. 17, Sched. 4, s. 1, 2.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_129",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_130",
+          "type": "unknown",
+          "text": "2003, c. 9, s. 14 (1)- 14/07/2004",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_131",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 7 (1-7)- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_132",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1, 2- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_133",
+          "type": "headnote",
+          "text": "Reconsideration by Chief Executive Officer",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_134",
+          "type": "section",
+          "text": "7.1(1) The Chief Executive Officer may notify an insurer that the Chief Executive Officer intends to make an order with respect to the risk classification system or rates for any coverage for the Personal Vehicles — Private Passenger Automobile category of automobile insurance of the insurer if, in the Chief Executive Officer’s opinion,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) the current risk classification system or current rate is not just and reasonable in the circumstances;",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) the current risk classification system is not reasonably predictive of risk or does not distinguish fairly between risks;",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_para_c",
+          "type": "paragraph",
+          "letter": "c",
+          "text": "(c) the current rates would impair the insurer’s solvency; or",
+          "citation_path": "s. 14, para. (c)"
+        },
+        {
+          "id": "section_14_para_d",
+          "type": "paragraph",
+          "letter": "d",
+          "text": "(d) the current rates are excessive in relation to the insurer’s financial circumstances.2013, c. 2, Sched. 1, s. 8;2018, c. 17, Sched. 4, s. 1, 2.",
+          "citation_path": "s. 14, para. (d)"
+        },
+        {
+          "id": "section_14_text_139",
+          "type": "headnote",
+          "text": "Written submissions",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_140",
+          "type": "section",
+          "text": "(2) The Chief Executive Officer shall give the insurer an opportunity to make written submissions with respect to the matter.2013, c. 2, Sched. 1, s. 8;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_141",
+          "type": "headnote",
+          "text": "Orders",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_142",
+          "type": "section",
+          "text": "(3) After considering the written submissions, if any, the Chief Executive Officer may make the order described in the notice, may make a revised order or may instead make an order under subsection 7 (1).2013, c. 2, Sched. 1, s. 8;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_143",
+          "type": "headnote",
+          "text": "Order final",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_144",
+          "type": "section",
+          "text": "(4) An order of the Chief Executive Officer under subsection (3) is final for all purposes.2013, c. 2, Sched. 1, s. 8;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_145",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_146",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 8- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_147",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1, 2- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_148",
+          "type": "headnote",
+          "text": "Mandatory rate",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_149",
+          "type": "section",
+          "text": "8For the Personal Vehicles — Private Passenger Automobile category of automobile insurance, no insurer shall charge a rate other than the authorized rate.2013, c. 2, Sched. 1, s. 9.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_150",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_151",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 9- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_152",
+          "type": "headnote",
+          "text": "Deemed approval under theInsurance Act",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_153",
+          "type": "section",
+          "text": "9After the repeal of subsection 4 (1) under section 14, the rates and risk classification system of an insurer as approved under this Act shall, for the purposes of sections 410, 411, 412, 415 and 417 of theInsurance Act, be deemed to be the rates and risk classification systems approved for use by the insurer under theInsurance Act.2003, c. 9, s. 9;2013, c. 2, Sched. 1, s. 10.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_154",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_155",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 10- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_156",
+          "type": "headnote",
+          "text": "Chief Executive Officer may investigate",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_157",
+          "type": "section",
+          "text": "10The Chief Executive Officer may examine and investigate the affairs of an insurer to determine if the insurer is committing any act or pursuing a course of conduct that is a contravention of this Act or that might reasonably be expected to result in a situation that would constitute a contravention of this Act.2003, c. 9, s. 10;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_158",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_159",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_160",
+          "type": "headnote",
+          "text": "Chief Executive Officer’s order after contravention of Act",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_161",
+          "type": "section",
+          "text": "11(1) If, in the opinion of the Chief Executive Officer, an insurer is committing any act or pursuing a course of conduct that is a contravention of this Act or that might reasonably be expected to result in a situation that would constitute a contravention of this Act, the Chief Executive Officer may, without giving prior notice, make an order to take effect immediately on its making,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) requiring the insurer to cease doing or to refrain from doing any act or pursuing any course of conduct identified by the Chief Executive Officer;",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) requiring the insurerto perform any act that, in the opinion of the Chief Executive Officer, is necessary to remedy the situation, including requiring an insurer to reimburse an insured in respect of any excess premium paid by the insured to the insurer by reason of the insurer’s contravention of this Act; or",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_para_c",
+          "type": "paragraph",
+          "letter": "c",
+          "text": "(c) suspending or cancelling the insurer’s licence under theInsurance Act.2003, c. 9, s. 11 (1);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14, para. (c)"
+        },
+        {
+          "id": "section_14_text_165",
+          "type": "headnote",
+          "text": "Reconsideration at request of insurer",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_166",
+          "type": "section",
+          "text": "(2) At the request of an insurer that is the subject of an order under this section, the Chief Executive Officer shall, after giving the insurer an opportunity to make written submissions, reconsider the order.2003, c. 9, s. 11 (2);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_167",
+          "type": "headnote",
+          "text": "Chief Executive Officer’s powers",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_168",
+          "type": "section",
+          "text": "(3) After reconsidering an order under this section, the Chief Executive Officer shall confirm, modify or revoke the order.2003, c. 9, s. 11 (3);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_169",
+          "type": "headnote",
+          "text": "Order final",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_170",
+          "type": "section",
+          "text": "(4) An order under this section may be reconsidered at the request of the insurer only once and, subject to the decision of the Chief Executive Officer after a reconsideration under subsection (2), is final for all purposes.2003, c. 9, s. 11 (4);2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_171",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_172",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_173",
+          "type": "headnote",
+          "text": "Definition",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_174",
+          "type": "section",
+          "text": "11.1In sections 11.2 to 11.7,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_175",
+          "type": "definition",
+          "text": "“requirement established under this Act” means,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) a requirement imposed by a provision of this Act that is prescribed for the purpose of section 11.3 or 11.4,",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) a requirement imposed by order, or",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_para_c",
+          "type": "paragraph",
+          "letter": "c",
+          "text": "(c) an obligation assumed by way of undertaking.2012, c. 8, Sched. 2, s. 1.",
+          "citation_path": "s. 14, para. (c)"
+        },
+        {
+          "id": "section_14_text_179",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_180",
+          "type": "unknown",
+          "text": "2012, c. 8, Sched. 2, s. 1- 01/01/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_181",
+          "type": "headnote",
+          "text": "Administrative penalties",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_182",
+          "type": "section",
+          "text": "11.2(1) An administrative penalty may be imposed under section 11.3 or 11.4 for either of the following purposes:",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_183",
+          "type": "paragraph",
+          "text": "1. To promote compliance with the requirements established under this Act.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_184",
+          "type": "paragraph",
+          "text": "2. To prevent a person from deriving, directly or indirectly, any economic benefit as a result of contravening or failing to comply with a requirement established under this Act.2012, c. 8, Sched. 2, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_185",
+          "type": "headnote",
+          "text": "Same",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_186",
+          "type": "section",
+          "text": "(2) An administrative penalty may be imposed alone or in conjunction with any other regulatory measure provided by this Act, including an order under section 11.2012, c. 8, Sched. 2, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_187",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_188",
+          "type": "unknown",
+          "text": "2012, c. 8, Sched. 2, s. 1- 01/01/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_189",
+          "type": "headnote",
+          "text": "General administrative penalties",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_190",
+          "type": "section",
+          "text": "11.3(1) If the Chief Executive Officer is satisfied that an insurer is contravening or not complying with or has contravened or failed to comply with any of the following, the Chief Executive Officer may, by order, impose an administrative penalty on the insurer in accordance with this section and the regulations:",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_191",
+          "type": "paragraph",
+          "text": "1. A provision of this Act as may be prescribed.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_192",
+          "type": "paragraph",
+          "text": "2. A requirement or obligation described in clause (b) or (c) of the definition of “requirement established under this Act” in section 11.1.2012, c. 8, Sched. 2, s. 1;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_193",
+          "type": "headnote",
+          "text": "Procedure",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_194",
+          "type": "section",
+          "text": "(2) If the Chief Executive Officer proposes to impose an administrative penalty under subsection (1), the procedure set out in section 441.3 of theInsurance Actapplies, with necessary modifications.2012, c. 8, Sched. 2, s. 1;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_195",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_196",
+          "type": "unknown",
+          "text": "2012, c. 8, Sched. 2, s. 1- 01/01/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_197",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_198",
+          "type": "headnote",
+          "text": "Summary administrative penalties",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_199",
+          "type": "section",
+          "text": "11.4(1) If the Chief Executive Officer is satisfied that an insurer is contravening or not complying with or has contravened or failed to comply with a provision of this Act as may be prescribed, the Chief Executive Officer may, by order, impose an administrative penalty on the insurer in accordance with this section and the regulations.2012, c. 8, Sched. 2, s. 1;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_200",
+          "type": "headnote",
+          "text": "Procedure",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_201",
+          "type": "section",
+          "text": "(2) The procedure set out in section 441.4 of theInsurance Actapplies, with necessary modifications, to the imposition of an administrative penalty under subsection (1).2012, c. 8, Sched. 2, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_202",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_203",
+          "type": "unknown",
+          "text": "2012, c. 8, Sched. 2, s. 1- 01/01/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_204",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_205",
+          "type": "headnote",
+          "text": "Maximum administrative penalties",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_206",
+          "type": "section",
+          "text": "11.5(1) An administrative penalty imposed on an insurer under section 11.3 shall not exceed $200,000 or such lesser amount as may be prescribed for a prescribed requirement established under this Act.2012, c. 8, Sched. 2, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_207",
+          "type": "headnote",
+          "text": "Same",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_208",
+          "type": "section",
+          "text": "(2) An administrative penalty imposed on an insurer under section 11.4 shall not exceed $25,000 or such lesser amount as may be prescribed for a prescribed requirement established under this Act.2012, c. 8, Sched. 2, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_209",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_210",
+          "type": "unknown",
+          "text": "2012, c. 8, Sched. 2, s. 1- 01/01/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_211",
+          "type": "headnote",
+          "text": "Enforcement of administrative penalties",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_212",
+          "type": "section",
+          "text": "11.6Section 441.6 of theInsurance Actapplies, with necessary modifications, with respect to the payment and enforcement of administrative penalties imposed under this Act.2012, c. 8, Sched. 2, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_213",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_214",
+          "type": "unknown",
+          "text": "2012, c. 8, Sched. 2, s. 1- 01/01/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_215",
+          "type": "headnote",
+          "text": "Regulations",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_216",
+          "type": "section",
+          "text": "11.7The Lieutenant Governor in Council may make regulations governing the administrative penalties that may be imposed under sections 11.3 and 11.4 and, without limiting the generality of the foregoing, may make regulations,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) prescribing provisions of this Act for the purposes of sections 11.3 and 11.4;",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) prescribing criteria the Chief Executive Officer is required or permitted to consider when imposing a penalty under section 11.3 or 11.4;",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_para_c",
+          "type": "paragraph",
+          "letter": "c",
+          "text": "(c) prescribing the amount of a penalty, or the method for calculating the amount of a penalty, and prescribing different penalties or ranges of penalties for different types of contraventions or failures to comply;",
+          "citation_path": "s. 14, para. (c)"
+        },
+        {
+          "id": "section_14_para_d",
+          "type": "paragraph",
+          "letter": "d",
+          "text": "(d) authorizing the Chief Executive Officer to determine the amount of a penalty, if the amount of the penalty or the method for calculating the amount of the penalty is not prescribed, and prescribing criteria the Chief Executive Officer is required or permitted to consider when determining the amount of the penalty;",
+          "citation_path": "s. 14, para. (d)"
+        },
+        {
+          "id": "section_14_para_e",
+          "type": "paragraph",
+          "letter": "e",
+          "text": "(e) authorizing a penalty to be imposed for each day or part of a day on which a contravention or failure to comply continues;",
+          "citation_path": "s. 14, para. (e)"
+        },
+        {
+          "id": "section_14_para_f",
+          "type": "paragraph",
+          "letter": "f",
+          "text": "(f) authorizing higher penalties (not to exceed the maximum penalty established under section 11.5 or prescribed under clause (j)) for a second or subsequent contravention or failure to comply by an insurer;",
+          "citation_path": "s. 14, para. (f)"
+        },
+        {
+          "id": "section_14_para_g",
+          "type": "paragraph",
+          "letter": "g",
+          "text": "(g) governing the manner of paying the penalties;",
+          "citation_path": "s. 14, para. (g)"
+        },
+        {
+          "id": "section_14_para_h",
+          "type": "paragraph",
+          "letter": "h",
+          "text": "(h) requiring that a penalty be paid before a specified deadline or before a deadline specified by the Chief Executive Officer;",
+          "citation_path": "s. 14, para. (h)"
+        },
+        {
+          "id": "section_14_para_i",
+          "type": "paragraph",
+          "letter": "i",
+          "text": "(i) authorizing the imposition of late payment fees respecting penalties that are not paid before the deadline, including graduated late payment fees;",
+          "citation_path": "s. 14, para. (i)"
+        },
+        {
+          "id": "section_14_para_j",
+          "type": "paragraph",
+          "letter": "j",
+          "text": "(j) prescribing lesser maximum administrative penalties and the requirements established under this Act to which the lesser maximum penalties apply for the purpose of subsection 11.5 (1) or (2).2012, c. 8, Sched. 2, s. 1;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14, para. (j)"
+        },
+        {
+          "id": "section_14_text_227",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_228",
+          "type": "unknown",
+          "text": "2012, c. 8, Sched. 2, s. 1- 01/01/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_229",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_230",
+          "type": "headnote",
+          "text": "Offences",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_231",
+          "type": "section",
+          "text": "12(1) Every insurer that does any of the following is guilty of an offence and on conviction is liable on a first conviction to a fine of not more than $250,000 and on each subsequent conviction to a fine of not more than $500,000:",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_232",
+          "type": "paragraph",
+          "text": "1. Contravenes subsection 3 (1) or 7 (3) or section 8.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_233",
+          "type": "paragraph",
+          "text": "2. Fails to comply with an order of the Chief Executive Officer made under section 11.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_234",
+          "type": "paragraph",
+          "text": "3. Directly or indirectly furnishes false, misleading or incomplete information, material or evidence to the Chief Executive Officer under this Act.2003, c. 9, s. 12 (1);2012, c. 8, Sched. 2, s. 2;2013, c. 2, Sched. 1, s. 11;2018, c. 17, Sched. 4, s. 1.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_235",
+          "type": "headnote",
+          "text": "Derivative offence",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_236",
+          "type": "section",
+          "text": "(2) Every director, officer and chief agent of an insurer is guilty of an offence who,",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_para_a",
+          "type": "paragraph",
+          "letter": "a",
+          "text": "(a) causes, authorizes, permits or participates in the insurer committing an offence under this Act; or",
+          "citation_path": "s. 14, para. (a)"
+        },
+        {
+          "id": "section_14_para_b",
+          "type": "paragraph",
+          "letter": "b",
+          "text": "(b) fails to take reasonable care to prevent the insurer from committing an offence under this Act.2003, c. 9, s. 12 (2).",
+          "citation_path": "s. 14, para. (b)"
+        },
+        {
+          "id": "section_14_text_239",
+          "type": "headnote",
+          "text": "Penalty on derivative offence",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_240",
+          "type": "section",
+          "text": "(3) A person who is guilty of an offence under subsection (2) is liable on a first conviction to a fine of not more than $100,000 and on each subsequent conviction to a fine of not more than $200,000, whether the insurer is prosecuted for or convicted of an offence.2003, c. 9, s. 12 (3).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_241",
+          "type": "headnote",
+          "text": "Restitution",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_242",
+          "type": "section",
+          "text": "(4) If a person is convicted of an offence under this Act, the court making the conviction may, in addition to any other penalty, order the person convicted to make compensation or restitution in relation to the offence.2003, c. 9, s. 12 (4).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_243",
+          "type": "unknown",
+          "text": "Section Amendments with date in force (d/m/y)",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_244",
+          "type": "unknown",
+          "text": "2012, c. 8, Sched. 2, s. 2- 01/01/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_245",
+          "type": "unknown",
+          "text": "2013, c. 2, Sched. 1, s. 11- 16/08/2013",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_246",
+          "type": "unknown",
+          "text": "2018, c. 17, Sched. 4, s. 1- 08/06/2019",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_247",
+          "type": "headnote",
+          "text": "Notices",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_248",
+          "type": "section",
+          "text": "13Section 33 of theInsurance Actapplies to documents required or permitted to be submitted under this Act and to orders made under this Act.2003, c. 9, s. 13.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_249",
+          "type": "headnote",
+          "text": "Repeal",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_250",
+          "type": "section",
+          "text": "14 (1) This Act is repealed on a day to be named by proclamation of the Lieutenant Governor.2003, c. 9, s. 14 (1).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_251",
+          "type": "headnote",
+          "text": "Same",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_252",
+          "type": "section",
+          "text": "(2) Any proclamation referred to in subsection (1) may apply to the whole or any part or parts or portion or portions or section or sections of this Act, and proclamations may be issued at different times as to any part or parts or portion or portions or section or sections of this Act.2003, c. 9, s. 14 (2).",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_253",
+          "type": "section",
+          "text": "15Omitted (provides for coming into force of provisions of this Act).2003, c. 9, s. 15.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_254",
+          "type": "section",
+          "text": "16Omitted (enacts short title of this Act).2003, c. 9, s. 16.",
+          "citation_path": "s. 14"
+        },
+        {
+          "id": "section_14_text_255",
+          "type": "unknown",
+          "text": "______________",
+          "citation_path": "s. 14"
+        }
+      ]
+    }
+  ]
+}

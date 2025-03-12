@@ -1,0 +1,11 @@
+{
+  "name": "lexiai-app",
+  "version": "1.0.0",
+  "description": "LexiAi Assistant Application",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "scripts": {
+    "build": "echo 'No build step required'"
+  }
+} 

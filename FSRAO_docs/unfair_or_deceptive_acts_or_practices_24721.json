@@ -1,0 +1,2594 @@
+{
+    "metadata": {
+        "title": "Unfair or Deceptive Acts or Practices",
+        "citation": "Unfair or Deceptive Acts or Practices",
+        "jurisdiction": "Ontario",
+        "last_updated": "2025-03-09",
+        "source_url": "https://www.fsrao.ca/media/24721/download"
+    },
+    "structure": [
+        {
+            "id": "section_1",
+            "type": "section",
+            "number": "1",
+            "title": "Unfair or Deceptive Acts or Practices ",
+            "citation_path": "s. 1",
+            "content": [
+                {
+                    "id": "section_1_text_0",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_1",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2 ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_2",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30, 2024 Effective: February 14, 2024 1 Interpretation ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_3",
+                    "type": "paragraph",
+                    "text": "1(1) In this Rule, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_4",
+                    "type": "paragraph",
+                    "text": "(i) “Act” means the Insurance Act , R.S.O. 1990, c. I.8, as amended, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_5",
+                    "type": "paragraph",
+                    "text": "(i.1) “Advisor chargeback sales charge option” means any option under an ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_6",
+                    "type": "paragraph",
+                    "text": "individual variable insurance contract, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_7",
+                    "type": "paragraph",
+                    "text": "(a) in connection with which, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_8",
+                    "type": "paragraph",
+                    "text": "(i) an insurer pays compensation to an agent when the insured invests ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_9",
+                    "type": "paragraph",
+                    "text": "money in a segregated fund in the individual variable insurance ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_10",
+                    "type": "paragraph",
+                    "text": "contract, and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_11",
+                    "type": "paragraph",
+                    "text": "(ii) the agent that receives this payment may be required to repay all or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_12",
+                    "type": "paragraph",
+                    "text": "part of this compensation to the insurer if, within a specified time, the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_13",
+                    "type": "paragraph",
+                    "text": "insured withdraws money from the segregated fund or changes the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_14",
+                    "type": "paragraph",
+                    "text": "sales charge option associated with the units in the segregated fund ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_15",
+                    "type": "paragraph",
+                    "text": "in which the insured invested, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_16",
+                    "type": "paragraph",
+                    "text": "(b) that a reasonable insurer would consider to be an advisor chargeback sales ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_17",
+                    "type": "paragraph",
+                    "text": "charge option, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_18",
+                    "type": "paragraph",
+                    "text": "(ii) “Affiliated insurer” means an insurer that is considered to be affiliated with ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_19",
+                    "type": "paragraph",
+                    "text": "another insurer under s. 414(3) of the Act, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_20",
+                    "type": "paragraph",
+                    "text": "(iii) “Authorized representative” means a person who is authorized by another ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_21",
+                    "type": "paragraph",
+                    "text": "person to act on such person’s behalf, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_22",
+                    "type": "paragraph",
+                    "text": "(iv) “Claimant” means a person who claims statutory accident benefits or who ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_23",
+                    "type": "paragraph",
+                    "text": "otherwise claims any benefit, compensation or payment under a contract of ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_24",
+                    "type": "paragraph",
+                    "text": "insurance, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_25",
+                    "type": "paragraph",
+                    "text": "(v) “Contract of insurance” means, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_26",
+                    "type": "paragraph",
+                    "text": "(a) for a contract of life insurance, has the meaning ascribed to such term in s. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_27",
+                    "type": "paragraph",
+                    "text": "171(1) of the Act, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_28",
+                    "type": "paragraph",
+                    "text": "(b) for a contract of accident and sickness insurance, has the meaning ascribed ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_29",
+                    "type": "paragraph",
+                    "text": "to such term in s. 290 of the Act, and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_30",
+                    "type": "paragraph",
+                    "text": "(c) for a contract of insurance not referred to in (a) or (b), has the meaning ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_31",
+                    "type": "paragraph",
+                    "text": "ascribed to “contract” in s. 1 of the Act,",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_32",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_33",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  (vi) “Credit information” means information about a person’s creditworthiness, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_34",
+                    "type": "paragraph",
+                    "text": "including a person’s credit score, credit-based insurance score, credit rating ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_35",
+                    "type": "paragraph",
+                    "text": "and information about or derived in whole or in part from such individual’s ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_36",
+                    "type": "paragraph",
+                    "text": "occupation, previous places of residence, number of dependants, educational ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_37",
+                    "type": "paragraph",
+                    "text": "or professional qualifications, current or previous places of employment, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_38",
+                    "type": "paragraph",
+                    "text": "estimated income, outstanding debt obligations, past debt payment history, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_39",
+                    "type": "paragraph",
+                    "text": "cost of living obligations and assets, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_40",
+                    "type": "paragraph",
+                    "text": "(vii) “Declination grounds” means the grounds on which an insurer is authorized ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_41",
+                    "type": "paragraph",
+                    "text": "under the Act to decline to issue or to terminate or refuse to renew a contract ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_42",
+                    "type": "paragraph",
+                    "text": "of automobile insurance or to refuse to provide or continue a coverage or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_43",
+                    "type": "paragraph",
+                    "text": "endorsement, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_44",
+                    "type": "paragraph",
+                    "text": "(vii.1) “Deferred sales charge” ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_45",
+                    "type": "paragraph",
+                    "text": "(a) means, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_46",
+                    "type": "paragraph",
+                    "text": "(i) a fee or charge that the insured with respect to an individual variable ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_47",
+                    "type": "paragraph",
+                    "text": "insurance contract is required to pay under the individual variable ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_48",
+                    "type": "paragraph",
+                    "text": "insurance contract because the insured, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_49",
+                    "type": "paragraph",
+                    "text": "(1) makes a withdrawal from a segregated fund, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_50",
+                    "type": "paragraph",
+                    "text": "(2) changes the sales charge option that applies to any investment in ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_51",
+                    "type": "paragraph",
+                    "text": "a segregated fund under the individual variable insurance ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_52",
+                    "type": "paragraph",
+                    "text": "contract, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_53",
+                    "type": "paragraph",
+                    "text": "and where the fee or charge is calculated based on a percentage of ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_54",
+                    "type": "paragraph",
+                    "text": "the amount that is withdrawn or affected by the change, and/or the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_55",
+                    "type": "paragraph",
+                    "text": "original cost of the units redeemed or affected by the change, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_56",
+                    "type": "paragraph",
+                    "text": "according to a predetermined calculation or schedule set out in the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_57",
+                    "type": "paragraph",
+                    "text": "individual variable insurance contract,  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_58",
+                    "type": "paragraph",
+                    "text": "(ii) a fee or charge that the insured with respect to an individual variable ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_59",
+                    "type": "paragraph",
+                    "text": "insurance contract is required to pay under the individual variable ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_60",
+                    "type": "paragraph",
+                    "text": "insurance contract because the insured does not make payments ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_61",
+                    "type": "paragraph",
+                    "text": "when required under the individual variable insurance contract, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_62",
+                    "type": "paragraph",
+                    "text": "(iii) any fee or charge with respect to a segregated fund in an individual ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_63",
+                    "type": "paragraph",
+                    "text": "variable insurance contract that a reasonable insurer would consider ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_64",
+                    "type": "paragraph",
+                    "text": "to be a deferred sales charge, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_65",
+                    "type": "paragraph",
+                    "text": "(b) but does not include, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_66",
+                    "type": "paragraph",
+                    "text": "(i) a fee or charge the insured is only required to pay at the time they ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_67",
+                    "type": "paragraph",
+                    "text": "deposit funds to the individual variable insurance contract,",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_68",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_69",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  (ii) a fee or charge the insured is required to pay because the insured ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_70",
+                    "type": "paragraph",
+                    "text": "moves money among investment options within the individual variable ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_71",
+                    "type": "paragraph",
+                    "text": "insurance contract more often than the individual variable insurance ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_72",
+                    "type": "paragraph",
+                    "text": "contract permits without charge, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_73",
+                    "type": "paragraph",
+                    "text": "(iii) a short term trading fee the insured is required to pay if the insured ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_74",
+                    "type": "paragraph",
+                    "text": "withdraws money from the individual variable insurance contract, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_75",
+                    "type": "paragraph",
+                    "text": "moves money among investment options within the individual variable ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_76",
+                    "type": "paragraph",
+                    "text": "insurance contract, within 90 days of investing the money, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_77",
+                    "type": "paragraph",
+                    "text": "(iv) a market value adjustment the insured is required to pay that is ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_78",
+                    "type": "paragraph",
+                    "text": "calculated based on changes in interest rates, but not based on ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_79",
+                    "type": "paragraph",
+                    "text": "compensation an agent received with respect to the investment, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_80",
+                    "type": "paragraph",
+                    "text": "(vii.2) “Individual variable insurance contract” means an individual contract of life ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_81",
+                    "type": "paragraph",
+                    "text": "insurance under which the insurer’s liabilities vary in amount depending upon ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_82",
+                    "type": "paragraph",
+                    "text": "the market value of a specified group of assets in a segregated fund. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_83",
+                    "type": "paragraph",
+                    "text": "Individual variable insurance contract includes a provision in an individual ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_84",
+                    "type": "paragraph",
+                    "text": "contract of life insurance under which policy dividends are deposited in a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_85",
+                    "type": "paragraph",
+                    "text": "segregated fund,  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_86",
+                    "type": "paragraph",
+                    "text": "(vii.3) “Person” has the meaning ascribed to such term in s. 438 of the Act, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_87",
+                    "type": "paragraph",
+                    "text": "(viii) “Prohibited factor” means, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_88",
+                    "type": "paragraph",
+                    "text": "(a) any reason or consideration that, under section 5 of Regulation 664 of the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_89",
+                    "type": "paragraph",
+                    "text": "Revised Regulations of Ontario, 1990 (Automobile Insurance), made under ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_90",
+                    "type": "paragraph",
+                    "text": "the Act, insurers are prohibited from using in the manner described in that ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_91",
+                    "type": "paragraph",
+                    "text": "section, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_92",
+                    "type": "paragraph",
+                    "text": "(b) any fact or factor that, under section 16 of Regulation 664 of the Revised ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_93",
+                    "type": "paragraph",
+                    "text": "Regulations of Ontario, 1990 (Automobile Insurance), insurers are prohibited ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_94",
+                    "type": "paragraph",
+                    "text": "from using as elements of a risk classification system, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_95",
+                    "type": "paragraph",
+                    "text": "(c) any other factor that the Authority determines is an estimate of, a surrogate ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_96",
+                    "type": "paragraph",
+                    "text": "for or analogous to a prohibited factor referred to in clause (a) or (b), ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_97",
+                    "type": "paragraph",
+                    "text": "(ix) “Reasonable person” means a reasonable and prudent person in the same or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_98",
+                    "type": "paragraph",
+                    "text": "similar circumstances as, and in the position of, and/or with the same licensing ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_99",
+                    "type": "paragraph",
+                    "text": "status of, the person in question, having regard to any applicable professional ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_100",
+                    "type": "paragraph",
+                    "text": "standards, best industry practices or codes of conduct, who has full ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_101",
+                    "type": "paragraph",
+                    "text": "knowledge of all and any relevant facts or circumstances, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_102",
+                    "type": "paragraph",
+                    "text": "(x) “Schedule” means the Statutory Accident Benefits Schedule — Effective ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_103",
+                    "type": "paragraph",
+                    "text": "September 1, 2010 and all previous Statutory Accident Benefit Schedules for ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_104",
+                    "type": "paragraph",
+                    "text": "which there are active claims,",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_105",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_106",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  (x.1) “Segregated fund” has the meaning ascribed to such term in s. 1(1) of O. Reg. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_107",
+                    "type": "paragraph",
+                    "text": "132/97: VARIABLE INSURANCE CONTRACTS, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_108",
+                    "type": "paragraph",
+                    "text": "(xi) “Substantially deficient” means that the delivery of goods or services fell below ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_109",
+                    "type": "paragraph",
+                    "text": "the standard required in the oral or written agreement to provide those goods ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_110",
+                    "type": "paragraph",
+                    "text": "or services to an extent or in such a manner that a significant part or the whole ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_111",
+                    "type": "paragraph",
+                    "text": "of the goods or services was unfit for the purposes intended from the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_112",
+                    "type": "paragraph",
+                    "text": "perspective of a reasonable person who is in the position of the intended ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_113",
+                    "type": "paragraph",
+                    "text": "recipient of those goods or services, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_114",
+                    "type": "paragraph",
+                    "text": "(xii) “Unreasonable consideration” means an amount being paid or sought for ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_115",
+                    "type": "paragraph",
+                    "text": "goods or services provided to a claimant that a reasonable person, in the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_116",
+                    "type": "paragraph",
+                    "text": "position of the provider of those goods or services, would not charge or seek, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_117",
+                    "type": "paragraph",
+                    "text": "or would not expect a reasonable person who is in the position of the recipient ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_118",
+                    "type": "paragraph",
+                    "text": "of the goods or services, to accept. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_119",
+                    "type": "paragraph",
+                    "text": "1(2) In addition to s. 1(1) of this Rule, if a term or phrase used in this Rule is defined in ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_120",
+                    "type": "paragraph",
+                    "text": "the Act, that definition shall apply for the purposes of this Rule.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_121",
+                    "type": "paragraph",
+                    "text": "1(3) For greater clarity, in determining what amounts to a reasonable person who is an ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_122",
+                    "type": "paragraph",
+                    "text": "insurer, the reasonable person will be deemed to have a level of knowledge and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_123",
+                    "type": "paragraph",
+                    "text": "expertise commensurate to that insurer’s nature, size, complexity, operations and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_124",
+                    "type": "paragraph",
+                    "text": "risk profile.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_125",
+                    "type": "paragraph",
+                    "text": "1(4) If a person has committed an unfair or deceptive act or practice, then every director, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_126",
+                    "type": "paragraph",
+                    "text": "officer, employee or authorized representative of that person shall be deemed to ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_127",
+                    "type": "paragraph",
+                    "text": "have committed an unfair or deceptive act or practice if that director, officer, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_128",
+                    "type": "paragraph",
+                    "text": "employee or authorized representative, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_129",
+                    "type": "paragraph",
+                    "text": "(i) causes, authorizes, permits, acquiesces or participates in the commission of ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_130",
+                    "type": "paragraph",
+                    "text": "an unfair or deceptive act or practice by the person, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_131",
+                    "type": "paragraph",
+                    "text": "(ii) fails to take all reasonable care in the circumstances to prevent the person ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_132",
+                    "type": "paragraph",
+                    "text": "from committing an unfair or deceptive act or practice. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_133",
+                    "type": "paragraph",
+                    "text": "1(5) References in this Rule to a form approved by the Chief Executive Officer are ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_134",
+                    "type": "paragraph",
+                    "text": "deemed to include the last form approved by the Superintendent for the purposes of ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_135",
+                    "type": "paragraph",
+                    "text": "the relevant provision prior to the day section 22 of Schedule 13 to the Plan for Care ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_136",
+                    "type": "paragraph",
+                    "text": "and Opportunity Act (Budget Measures), 2018  came into force until the Chief ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_137",
+                    "type": "paragraph",
+                    "text": "Executive Officer approves a subsequent form for the purposes of this section. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_138",
+                    "type": "paragraph",
+                    "text": "2 Unfair or Deceptive Act or Practice ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_139",
+                    "type": "paragraph",
+                    "text": "2(1) For the purposes of the definition of “unfair or deceptive act or practice” in section ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_140",
+                    "type": "paragraph",
+                    "text": "438 of the Act, conduct, including inaction or omission, which results in, or could ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_141",
+                    "type": "paragraph",
+                    "text": "reasonably be expected to result in the outcomes, events or circumstances set out in ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_142",
+                    "type": "paragraph",
+                    "text": "s. 3 through s. 12 of this Rule is prescribed as an unfair or deceptive act or practice.",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_143",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_144",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  2(2) For the purposes of determining what conduct , including inaction or omission, could ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_145",
+                    "type": "paragraph",
+                    "text": "be reasonably expected to result in the outcomes, events or circumstances set out in ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_146",
+                    "type": "paragraph",
+                    "text": "s. 3 through s. 12 of this Rule, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_147",
+                    "type": "paragraph",
+                    "text": "(i) if the action or conduct, including inaction or omission is committed by, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_148",
+                    "type": "paragraph",
+                    "text": "(a) an agent, broker, adjuster, insurer or any director, officer, employee or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_149",
+                    "type": "paragraph",
+                    "text": "authorized representative of an agent, broker, adjuster or insurer, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_150",
+                    "type": "paragraph",
+                    "text": "(b) any person, or any director, officer, employee or authorized representative of ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_151",
+                    "type": "paragraph",
+                    "text": "that person, who provides goods or services to a claimant which are fully or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_152",
+                    "type": "paragraph",
+                    "text": "partially expected to be paid for through the proceeds of insurance, including ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_153",
+                    "type": "paragraph",
+                    "text": "for greater clarity and without limitation, automotive repair, towing and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_154",
+                    "type": "paragraph",
+                    "text": "storage services, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_155",
+                    "type": "paragraph",
+                    "text": "then an outcome, event or circumstance will be deemed to be reasonably ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_156",
+                    "type": "paragraph",
+                    "text": "expected if it would be expected by a reasonable person in that person’s ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_157",
+                    "type": "paragraph",
+                    "text": "business or profession with full knowledge of all and any facts and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_158",
+                    "type": "paragraph",
+                    "text": "circumstances th at person knew about or, with reasonable diligence under the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_159",
+                    "type": "paragraph",
+                    "text": "circumstances, ought to, have known, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_160",
+                    "type": "paragraph",
+                    "text": "(ii) if the action or conduct, including inaction or omission, is committed by a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_161",
+                    "type": "paragraph",
+                    "text": "person not listed in (i) then an outcome, event or circumstance will be deemed ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_162",
+                    "type": "paragraph",
+                    "text": "to be reasonably expected if it would be expected by a reasonable person in ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_163",
+                    "type": "paragraph",
+                    "text": "that person’s position with knowledge of all and any relevant facts and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_164",
+                    "type": "paragraph",
+                    "text": "circumstances that  person knew about or ought to, with reasonable diligence ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_165",
+                    "type": "paragraph",
+                    "text": "under the circumstances, have known. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_166",
+                    "type": "paragraph",
+                    "text": "2(3) S. 2(1) of this Rule does not apply to conduct by a lawyer or paralegal with respect to ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_167",
+                    "type": "paragraph",
+                    "text": "activities that constitute practising law or providing legal services, as the case may ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_168",
+                    "type": "paragraph",
+                    "text": "be, as authorized under the Law Society Act  which results in the outcomes listed in ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_169",
+                    "type": "paragraph",
+                    "text": "in s. 6 of this Rule. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_170",
+                    "type": "paragraph",
+                    "text": "3 Non-Compliance with Law ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_171",
+                    "type": "paragraph",
+                    "text": "3(1) The commission of any act prohibited under the Act, or under any regulation or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_172",
+                    "type": "paragraph",
+                    "text": "Authority rule made under the Act. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_173",
+                    "type": "paragraph",
+                    "text": "3(2) Any provision of the Act, or a regulation or Authority rule made under the Act, not ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_174",
+                    "type": "paragraph",
+                    "text": "being complied with resulting in the unfair treatment or unfair discrimination of a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_175",
+                    "type": "paragraph",
+                    "text": "person.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_176",
+                    "type": "paragraph",
+                    "text": "3(3) Non-compliance with any requirement under the Act or a regulation or Authority rule ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_177",
+                    "type": "paragraph",
+                    "text": "made under the Act, by the subject of an examination or purported examination. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_178",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_179",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  4 Unfair Discrimination ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_180",
+                    "type": "paragraph",
+                    "text": "4(1) Any unlawful or unfair discrimination, including any contravention of the Ontario ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_181",
+                    "type": "paragraph",
+                    "text": "Human Rights Code , in the provision or administration of insurance, or goods or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_182",
+                    "type": "paragraph",
+                    "text": "services related to insurance, including,  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_183",
+                    "type": "paragraph",
+                    "text": "(i) between individuals of the same class and of the same expectation of life, in ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_184",
+                    "type": "paragraph",
+                    "text": "the amount or payment or return of premiums, or rates charged for contracts ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_185",
+                    "type": "paragraph",
+                    "text": "of life insurance or annuity contracts, or in the dividends or other benefits ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_186",
+                    "type": "paragraph",
+                    "text": "payable on such contracts or in the terms and conditions of such contracts, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_187",
+                    "type": "paragraph",
+                    "text": "(ii) in any rate or schedule of rates between risks in Ontario of essentially the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_188",
+                    "type": "paragraph",
+                    "text": "same physical hazards in the same territorial classification. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_189",
+                    "type": "paragraph",
+                    "text": "5 Unfair Claims Practices ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_190",
+                    "type": "paragraph",
+                    "text": "5(1) Unreasonable or unfair resolution or delay in the adjudication, adjustment or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_191",
+                    "type": "paragraph",
+                    "text": "settlement of any claim, including but not limited to, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_192",
+                    "type": "paragraph",
+                    "text": "(i) treating a claimant in an arbitrary, capricious or malicious manner, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_193",
+                    "type": "paragraph",
+                    "text": "(ii) not acting in good faith, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_194",
+                    "type": "paragraph",
+                    "text": "(iii) seeking a result which is inequitable or inconsistent with a claimant’s rights ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_195",
+                    "type": "paragraph",
+                    "text": "under the contract, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_196",
+                    "type": "paragraph",
+                    "text": "(iv) imposing unreasonable or unfair costs or expenses on the (1) claims handling ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_197",
+                    "type": "paragraph",
+                    "text": "or dispute resolution processes, (2) goods or (3) services, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_198",
+                    "type": "paragraph",
+                    "text": "(v) communicating in an untimely manner or misrepresenting the rights of a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_199",
+                    "type": "paragraph",
+                    "text": "claimant or obligations of an insurer under the contract, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_200",
+                    "type": "paragraph",
+                    "text": "(vi) any adjuster or insurer not following fair, simple and accessible claims ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_201",
+                    "type": "paragraph",
+                    "text": "handling procedures or not providing a claimant timely, clear, comprehensive ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_202",
+                    "type": "paragraph",
+                    "text": "and accurate information about the status of its claim, the process for settling ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_203",
+                    "type": "paragraph",
+                    "text": "its claim or reasons for a decision made respecting its claim. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_204",
+                    "type": "paragraph",
+                    "text": "5(2) With respect to automobile insurance, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_205",
+                    "type": "paragraph",
+                    "text": "(i) non-compliance with the Schedule, including but not limited to, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_206",
+                    "type": "paragraph",
+                    "text": "(a) payment for goods or services not being made, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_207",
+                    "type": "paragraph",
+                    "text": "(b) the cost of an assessment not being paid, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_208",
+                    "type": "paragraph",
+                    "text": "without reasonable cause, within the time period prescribed in the Schedule,",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_209",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_210",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  (ii) the making of a statement by or on behalf of an insurer for the purposes of ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_211",
+                    "type": "paragraph",
+                    "text": "adjusting or settling a claim if that insurer knows or ought to know that the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_212",
+                    "type": "paragraph",
+                    "text": "statement misrepresents or unfairly presents the findings or conclusions of a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_213",
+                    "type": "paragraph",
+                    "text": "person who conducted an examination under section 44 of the Schedule, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_214",
+                    "type": "paragraph",
+                    "text": "(iii) a conflict of interest not being disclosed to a person who claims statutory ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_215",
+                    "type": "paragraph",
+                    "text": "accident benefits. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_216",
+                    "type": "paragraph",
+                    "text": "6 Fraudulent or Abusive Conduct Related to Goods and Services Provided to a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_217",
+                    "type": "paragraph",
+                    "text": "Claimant ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_218",
+                    "type": "paragraph",
+                    "text": "6(1) Consideration being paid or sought for goods or services in connection with a claim ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_219",
+                    "type": "paragraph",
+                    "text": "under a contract of insurance which were not provided to a claimant or were ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_220",
+                    "type": "paragraph",
+                    "text": "provided in a substantially deficient manner.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_221",
+                    "type": "paragraph",
+                    "text": "6(2) A referral fee being solicited, demanded, paid or accepted in connection with goods ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_222",
+                    "type": "paragraph",
+                    "text": "or services provided to a claimant. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_223",
+                    "type": "paragraph",
+                    "text": "6(3) Unreasonable consideration being paid or sought for goods or services provided to a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_224",
+                    "type": "paragraph",
+                    "text": "claimant.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_225",
+                    "type": "paragraph",
+                    "text": "6(4) With respect to automobile insurance, a claimant signing or being asked to sign, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_226",
+                    "type": "paragraph",
+                    "text": "before it has been fully completed, any  form or any other document that is required ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_227",
+                    "type": "paragraph",
+                    "text": "to be in a form approved by the Chief Executive Officer or any form or document that ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_228",
+                    "type": "paragraph",
+                    "text": "is specified in a guideline applicable for the purposes of the Schedule. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_229",
+                    "type": "paragraph",
+                    "text": "6(5) Information being communicated about the business, billing practices or licensing ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_230",
+                    "type": "paragraph",
+                    "text": "status of a person who provides or offers to provide goods or services to a claimant ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_231",
+                    "type": "paragraph",
+                    "text": "which a reasonable person who is in the position of the intended recipient would ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_232",
+                    "type": "paragraph",
+                    "text": "consider false, misleading or deceptive.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_233",
+                    "type": "paragraph",
+                    "text": "7 Incentives ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_234",
+                    "type": "paragraph",
+                    "text": "7(1) Payment, rebate, consideration, allowance, gift or thing of value being offered or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_235",
+                    "type": "paragraph",
+                    "text": "provided, directly or indirectly, to an insured or person applying for insurance,  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_236",
+                    "type": "paragraph",
+                    "text": "(i) as an incentive or inducement for a person to take an action or make a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_237",
+                    "type": "paragraph",
+                    "text": "decision relating to an insurance product which would not, considering the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_238",
+                    "type": "paragraph",
+                    "text": "options generally available in the marketplace, be recommended as a suitable ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_239",
+                    "type": "paragraph",
+                    "text": "action or decision by a reasonable person licensed to sell such an insurance ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_240",
+                    "type": "paragraph",
+                    "text": "product, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_241",
+                    "type": "paragraph",
+                    "text": "(ii) which is otherwise prohibited by law , ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_242",
+                    "type": "paragraph",
+                    "text": "(iii) in a manner which a reasonable person licensed to sell such a product would ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_243",
+                    "type": "paragraph",
+                    "text": "not consider to be clearly and transparently communicated to intended ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_244",
+                    "type": "paragraph",
+                    "text": "recipients or applied consistently,",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_245",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_246",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  (iv) in a manner which involves unfair discrimination or contributes to an anti-",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_247",
+                    "type": "paragraph",
+                    "text": "competitive practice, including but not limited to, tied selling or predatory ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_248",
+                    "type": "paragraph",
+                    "text": "pricing, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_249",
+                    "type": "paragraph",
+                    "text": "(v) as an incentive or inducement to purchase, renew or retain an insurance ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_250",
+                    "type": "paragraph",
+                    "text": "product, which provides coverages within the classes of life or accident and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_251",
+                    "type": "paragraph",
+                    "text": "sickness insurance, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_252",
+                    "type": "paragraph",
+                    "text": "(vi) if related to automobile insurance, which is based, in whole or in part, on, or is ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_253",
+                    "type": "paragraph",
+                    "text": "calculated by reference to, prohibited factors. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_254",
+                    "type": "paragraph",
+                    "text": "7(2) For greater clarity, s. 7(1)(i) to 7(1)(v) of this Rule also apply to any payment, rebate, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_255",
+                    "type": "paragraph",
+                    "text": "consideration, allowance, gift or thing of value being offered or provided, directly or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_256",
+                    "type": "paragraph",
+                    "text": "indirectly, as an incentive or inducement to purchase, renew or retain automobile ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_257",
+                    "type": "paragraph",
+                    "text": "insurance. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_258",
+                    "type": "paragraph",
+                    "text": "7(3) An agreement being made or offered to be made, directly or indirectly, for a premium ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_259",
+                    "type": "paragraph",
+                    "text": "to be paid that is different from the premium set out in the contract of insurance.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_260",
+                    "type": "paragraph",
+                    "text": "7(4) For the purposes of this section, clear and transparent communication includes but is ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_261",
+                    "type": "paragraph",
+                    "text": "not limited to providing an explanation of how the amount or value of any payment, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_262",
+                    "type": "paragraph",
+                    "text": "rebate, consideration, allowance, gift or thing of value is calculated.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_263",
+                    "type": "paragraph",
+                    "text": "7(5) For the purposes of this section, a gift or thing of value will not be considered an ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_264",
+                    "type": "paragraph",
+                    "text": "incentive or inducement if th at gift or thing of value is a good or service reasonably ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_265",
+                    "type": "paragraph",
+                    "text": "related to reducing the risk insured by the contract of insurance to which it is related. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_266",
+                    "type": "paragraph",
+                    "text": "8 Misrepresentation ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_267",
+                    "type": "paragraph",
+                    "text": "8(1) A person receiving information, promotional materials, or advice in any form, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_268",
+                    "type": "paragraph",
+                    "text": "including audio, visual, electronic, written and oral means, which a reasonable ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_269",
+                    "type": "paragraph",
+                    "text": "person in the position of such recipient would consider to be inappropriate, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_270",
+                    "type": "paragraph",
+                    "text": "inaccurate or misleading, respecting, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_271",
+                    "type": "paragraph",
+                    "text": "(i) the terms, benefits or advantages of any contract of insurance issued or to be ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_272",
+                    "type": "paragraph",
+                    "text": "issued, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_273",
+                    "type": "paragraph",
+                    "text": "(ii) an insurance claim, the claims process or whether a policy provides coverage, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_274",
+                    "type": "paragraph",
+                    "text": "or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_275",
+                    "type": "paragraph",
+                    "text": "(iii) any comparison of contracts of insurance. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_276",
+                    "type": "paragraph",
+                    "text": "8(2) A person being charged for any  premium or fee other than as stipulated in a contract ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_277",
+                    "type": "paragraph",
+                    "text": "of insurance.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_278",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_279",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  9 Prohibited Conduct in Automobile Insurance Quotations, Applications or Renewals ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_280",
+                    "type": "paragraph",
+                    "text": "9(1) Unfair treatment by an agent, broker or insurer to a consumer with regard to any ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_281",
+                    "type": "paragraph",
+                    "text": "matter relating to quotations for automobile insurance, applications for automobile ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_282",
+                    "type": "paragraph",
+                    "text": "insurance, issuance of contracts of automobile insurance or renewals of existing ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_283",
+                    "type": "paragraph",
+                    "text": "contracts of automobile insurance, including but not limited to, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_284",
+                    "type": "paragraph",
+                    "text": "(i) variance of formal or informal processes and procedures which make it more ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_285",
+                    "type": "paragraph",
+                    "text": "difficult for certain persons to interact with an insurer, broker or agent for the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_286",
+                    "type": "paragraph",
+                    "text": "purpose of discouraging or delaying such persons from applying for, renewing ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_287",
+                    "type": "paragraph",
+                    "text": "or obtaining automobile insurance, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_288",
+                    "type": "paragraph",
+                    "text": "(ii) using credit information or a prohibited factor, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_289",
+                    "type": "paragraph",
+                    "text": "(iii) asking or requiring a person to provide consent to the collection, use or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_290",
+                    "type": "paragraph",
+                    "text": "disclosure of any credit information, other than for the sole purpose of ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_291",
+                    "type": "paragraph",
+                    "text": "considering whether to provide premium financing, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_292",
+                    "type": "paragraph",
+                    "text": "(iv) applying any other information in a manner that is subjective or arbitrary or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_293",
+                    "type": "paragraph",
+                    "text": "that bears little or no relationship to the risk assumed or to be assumed by the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_294",
+                    "type": "paragraph",
+                    "text": "insurer, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_295",
+                    "type": "paragraph",
+                    "text": "(v) misclassifying a person or vehicle under the risk classification system used by ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_296",
+                    "type": "paragraph",
+                    "text": "an insurer or that an insurer is required by law to use, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_297",
+                    "type": "paragraph",
+                    "text": "(vi) making the issuance or variation of a policy of automobile insurance ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_298",
+                    "type": "paragraph",
+                    "text": "conditional on an insured having or purchasing another insurance policy, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_299",
+                    "type": "paragraph",
+                    "text": "(vii) engaging in unfair discrimination, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_300",
+                    "type": "paragraph",
+                    "text": "(viii) treating a consumer in an arbitrary, capricious or malicious manner, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_301",
+                    "type": "paragraph",
+                    "text": "(ix) not acting in good faith or behaving in a way that causes consumers to have a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_302",
+                    "type": "paragraph",
+                    "text": "reasonable apprehension of bias, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_303",
+                    "type": "paragraph",
+                    "text": "(x) communicating in an untimely manner or misrepresenting the rights of a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_304",
+                    "type": "paragraph",
+                    "text": "claimant or obligations of an insurer under the automobile insurance contract. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_305",
+                    "type": "paragraph",
+                    "text": "9(2) Credit information about a person being collected, used or disclosed in any manner ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_306",
+                    "type": "paragraph",
+                    "text": "in connection with automobile insurance, other than, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_307",
+                    "type": "paragraph",
+                    "text": "(i) for the limited purposes, if any, described in the form of application for ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_308",
+                    "type": "paragraph",
+                    "text": "insurance approved by the Chief Executive Officer under s. 227(1) of the Act, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_309",
+                    "type": "paragraph",
+                    "text": "or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_310",
+                    "type": "paragraph",
+                    "text": "(ii) in accordance with the consent obtained in compliance with applicable privacy ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_311",
+                    "type": "paragraph",
+                    "text": "laws of the person to whom the information relates.",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_312",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_313",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  10 Affiliated Insurers ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_314",
+                    "type": "paragraph",
+                    "text": "10(1) An agent, broker or insurer providing a quote or renewal for automobile insurance ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_315",
+                    "type": "paragraph",
+                    "text": "from an insurer, and not offering the lowest rate available from amongst that insurer ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_316",
+                    "type": "paragraph",
+                    "text": "and its affiliated insurers. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_317",
+                    "type": "paragraph",
+                    "text": "10(2) In this section “lowest rate available” is the lowest rate amongst an insurer and its ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_318",
+                    "type": "paragraph",
+                    "text": "affiliates which is reasonably available to be offered to an insured or potential ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_319",
+                    "type": "paragraph",
+                    "text": "insured, having regard to all of the circumstances, including but not limited to, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_320",
+                    "type": "paragraph",
+                    "text": "(i) each insurer’s declination grounds, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_321",
+                    "type": "paragraph",
+                    "text": "(ii) each insurer’s rates and risk classification systems, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_322",
+                    "type": "paragraph",
+                    "text": "(iii) each insurer’s method of distribution, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_323",
+                    "type": "paragraph",
+                    "text": "(iv) whether the insurers only recently became affiliated. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_324",
+                    "type": "paragraph",
+                    "text": "11  Deferred Sales Charges – New Individual Variable Insurance Contracts ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_325",
+                    "type": "paragraph",
+                    "text": "11(1) An insurer issuing an individual variable insurance contract on or after June 1, 2023, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_326",
+                    "type": "paragraph",
+                    "text": "under which a person can make an investment that may be subject to a deferred ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_327",
+                    "type": "paragraph",
+                    "text": "sales charge.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_328",
+                    "type": "paragraph",
+                    "text": "11(2) For the purposes of s. 11(1) of this Rule, an insurer is not considered to “issue” an ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_329",
+                    "type": "paragraph",
+                    "text": "individual variable insurance contract where a person has an existing individual ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_330",
+                    "type": "paragraph",
+                    "text": "variable insurance contract with the insurer and the insurer issues a replacement ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_331",
+                    "type": "paragraph",
+                    "text": "individual variable insurance contract on substantially similar terms and conditions, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_332",
+                    "type": "paragraph",
+                    "text": "except any changes required by applicable tax or pension laws, including issuing a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_333",
+                    "type": "paragraph",
+                    "text": "contract in connection with,  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_334",
+                    "type": "paragraph",
+                    "text": "(i) converting a registered retirement savings plan to a registered retirement ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_335",
+                    "type": "paragraph",
+                    "text": "income fund contract, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_336",
+                    "type": "paragraph",
+                    "text": "(ii) converting a locked-in retirement account to a life income fund contract, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_337",
+                    "type": "paragraph",
+                    "text": "(iii) transferring ownership of the individual variable insurance contract. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_338",
+                    "type": "paragraph",
+                    "text": "11(3) A replacement individual variable insurance contract is not substantially similar for ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_339",
+                    "type": "paragraph",
+                    "text": "the purposes of s. 11(2) of this Rule unless the calculation of each deferred sales ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_340",
+                    "type": "paragraph",
+                    "text": "charge on investments under the replacement individual variable insurance contract ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_341",
+                    "type": "paragraph",
+                    "text": "reflects the time the money was invested on a deferred sales charge basis under a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_342",
+                    "type": "paragraph",
+                    "text": "replaced individual variable insurance contract, if any, rather than reflecting a period ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_343",
+                    "type": "paragraph",
+                    "text": "starting from the date on which the replacement individual variable insurance ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_344",
+                    "type": "paragraph",
+                    "text": "contract is issued.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_345",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_346",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  12 Deferred Sales Charges – All Individual Variable Insurance Contracts ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_347",
+                    "type": "paragraph",
+                    "text": "12(1) An insurer amending an individual variable insurance contract, or exercising a right ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_348",
+                    "type": "paragraph",
+                    "text": "under an individual variable insurance contract, to add, withdraw or change a sales ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_349",
+                    "type": "paragraph",
+                    "text": "charge option on or after June 1, 2023, if, as a result,   ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_350",
+                    "type": "paragraph",
+                    "text": "(i) the individual variable insurance contract may permit or require an insured to ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_351",
+                    "type": "paragraph",
+                    "text": "pay a deferred sales charge, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_352",
+                    "type": "paragraph",
+                    "text": "(ii) a reasonable person would believe a deferred sales charge under the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_353",
+                    "type": "paragraph",
+                    "text": "individual variable insurance contract becomes less favourable to the insured, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_354",
+                    "type": "paragraph",
+                    "text": "including any change that, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_355",
+                    "type": "paragraph",
+                    "text": "(a) increases the amount of the investment which is or may be subject to a ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_356",
+                    "type": "paragraph",
+                    "text": "deferred sales charge, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_357",
+                    "type": "paragraph",
+                    "text": "(b) increases the duration of a deferred sales charge, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_358",
+                    "type": "paragraph",
+                    "text": "(c) increases the amount payable in any given circumstances under a deferred ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_359",
+                    "type": "paragraph",
+                    "text": "sales charge, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_360",
+                    "type": "paragraph",
+                    "text": "(d) extends the circumstances that trigger payment of a deferred sales charge. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_361",
+                    "type": "paragraph",
+                    "text": "12(2) An insurer accepting a deposit to an individual variable insurance contract that may ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_362",
+                    "type": "paragraph",
+                    "text": "be subject to a deferred sales charge if the insurer has the right under the terms of ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_363",
+                    "type": "paragraph",
+                    "text": "the individual variable insurance contract to remove deferred sales charge as a sales ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_364",
+                    "type": "paragraph",
+                    "text": "charge option and instead accept deposits under a different sales charge option.   ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_365",
+                    "type": "paragraph",
+                    "text": "12(3) Except as described in s. 12(4) or s. 12(7) of this Rule , an insurer applying a sales ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_366",
+                    "type": "paragraph",
+                    "text": "charge option other than the deferred sales charge option to a deposit to an ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_367",
+                    "type": "paragraph",
+                    "text": "individual variable insurance contract where the insurer and insured had previously ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_368",
+                    "type": "paragraph",
+                    "text": "agreed the deferred sales charge option would apply to the deposit.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_369",
+                    "type": "paragraph",
+                    "text": "12(4) Section 12(3) of this Rule does not prescribe that it is an unfair or deceptive act or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_370",
+                    "type": "paragraph",
+                    "text": "practice for an insurer to apply a sales charge option to a deposit that is ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_371",
+                    "type": "paragraph",
+                    "text": "unequivocally better for the insured than the deferred sales charge if, before or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_372",
+                    "type": "paragraph",
+                    "text": "promptly after the insurer first applies the new sales charge option, the insured ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_373",
+                    "type": "paragraph",
+                    "text": "receives written disclosure from the insurer that, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_374",
+                    "type": "paragraph",
+                    "text": "(i) informs the insured what sales charge option the insurer is applying, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_375",
+                    "type": "paragraph",
+                    "text": "(ii) explains how the sales charge option in s. 12(4)(i) of this Rule works, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_376",
+                    "type": "paragraph",
+                    "text": "(iii) informs the insured of the existence of other available sales charge options, if ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_377",
+                    "type": "paragraph",
+                    "text": "any, and",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_378",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_379",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  (iv) explains how the insured can obtain information about any other available ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_380",
+                    "type": "paragraph",
+                    "text": "sales charge options. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_381",
+                    "type": "paragraph",
+                    "text": "12(5) For the purpose of s. 12(4) of this Rule, a sales charge option is unequivocally better ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_382",
+                    "type": "paragraph",
+                    "text": "for an insured than the deferred sales charge it replaces only if, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_383",
+                    "type": "paragraph",
+                    "text": "(i) the percentage amount of any initial sales charge is no greater than in ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_384",
+                    "type": "paragraph",
+                    "text": "connection with the deferred sales charge, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_385",
+                    "type": "paragraph",
+                    "text": "(ii) the management expense ratio is no greater than in connection with the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_386",
+                    "type": "paragraph",
+                    "text": "deferred sales charge, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_387",
+                    "type": "paragraph",
+                    "text": "(iii) no other fee or charge associated with the sales charge option is less ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_388",
+                    "type": "paragraph",
+                    "text": "favourable to the insured than under the deferred sales charge option, and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_389",
+                    "type": "paragraph",
+                    "text": "(iv) the sales charge option applied does not involve any new conflict between the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_390",
+                    "type": "paragraph",
+                    "text": "interests of the insured and the interests of the insurer or an agent to the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_391",
+                    "type": "paragraph",
+                    "text": "detriment of the insured. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_392",
+                    "type": "paragraph",
+                    "text": "12(6) For the purpose of s. 12(5) of this Rule, the advisor chargeback sales charge option ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_393",
+                    "type": "paragraph",
+                    "text": "is not unequivocally better than the deferred sales charge. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_394",
+                    "type": "paragraph",
+                    "text": "12(7) Section 12(3) of this Rule does not prescribe that it is an unfair or deceptive act or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_395",
+                    "type": "paragraph",
+                    "text": "practice for an insurer to apply a sales charge option to a deposit if, before the ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_396",
+                    "type": "paragraph",
+                    "text": "insurer applies the sales charge option, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_397",
+                    "type": "paragraph",
+                    "text": "(i) the insured receives written disclosure from the insurer reasonably designed ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_398",
+                    "type": "paragraph",
+                    "text": "to help the insured choose a suitable sales charge option, which at a minimum ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_399",
+                    "type": "paragraph",
+                    "text": "includes, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_400",
+                    "type": "paragraph",
+                    "text": "(a) a list of sales charge options the insured may choose among, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_401",
+                    "type": "paragraph",
+                    "text": "(b) a description of how each applicable sales charge option works, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_402",
+                    "type": "paragraph",
+                    "text": "(c) the percentage amount of any initial sales charge under each applicable ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_403",
+                    "type": "paragraph",
+                    "text": "sales charge option, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_404",
+                    "type": "paragraph",
+                    "text": "(d) a description of the relevant management expense ratios, including, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_405",
+                    "type": "paragraph",
+                    "text": "(i) any different charges for different guarantee options, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_406",
+                    "type": "paragraph",
+                    "text": "(ii) what the management expense ratios include, and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_407",
+                    "type": "paragraph",
+                    "text": "(iii) how the management expense ratios affect the insured’s returns on their ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_408",
+                    "type": "paragraph",
+                    "text": "investments, and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_409",
+                    "type": "paragraph",
+                    "text": "(ii) either,",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_410",
+                    "type": "paragraph",
+                    "text": "Unfair or Deceptive Acts or Practices Rule as amended by Deferred Sales Charge Amendment 2  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_411",
+                    "type": "paragraph",
+                    "text": "Approved by Minister of Finance: January 30,  2024  Effective: February 14, 2024  (a) the insured agrees to the new sales charge option applying to the deposit, or ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_412",
+                    "type": "paragraph",
+                    "text": "(b) the insured is deemed to have agreed to the default sales charge option ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_413",
+                    "type": "paragraph",
+                    "text": "because a reasonable time elapses, during which the insured does not notify ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_414",
+                    "type": "paragraph",
+                    "text": "the insurer of the insured’s choice of sales charge option, after the insurer ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_415",
+                    "type": "paragraph",
+                    "text": "(i) provides the required disclosure, ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_416",
+                    "type": "paragraph",
+                    "text": "(ii) notifies the insured of the default sales charge option, and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_417",
+                    "type": "paragraph",
+                    "text": "(iii) notifies the insured of the time until that default sales charge option will ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_418",
+                    "type": "paragraph",
+                    "text": "apply. ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_419",
+                    "type": "paragraph",
+                    "text": "12(8) An insurer accepting a deposit to an individual variable insurance contract that may ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_420",
+                    "type": "paragraph",
+                    "text": "be subject to a deferred sales charge, unless the insured receives written disclosure ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_421",
+                    "type": "paragraph",
+                    "text": "from the insurer, before the insurer accepts the deposit, that is reasonably designed ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_422",
+                    "type": "paragraph",
+                    "text": "to help the insured understand the sales charge options available to them and ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_423",
+                    "type": "paragraph",
+                    "text": "whether making a deposit on a deferred sales charge basis is suitable for that ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_424",
+                    "type": "paragraph",
+                    "text": "insured.  ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_425",
+                    "type": "paragraph",
+                    "text": "13 Coming into Force ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_426",
+                    "type": "paragraph",
+                    "text": "13(1) This Rule will come into force on the later of the date that section 1 of Schedule 5 of ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_427",
+                    "type": "paragraph",
+                    "text": "the Protecting the People of Ontario Act (Budget Measures), 2021 comes into force ",
+                    "citation_path": "s. 1"
+                },
+                {
+                    "id": "section_1_text_428",
+                    "type": "paragraph",
+                    "text": "and 15 days after the Rule is approved by the Minister.  ",
+                    "citation_path": "s. 1"
+                }
+            ]
+        }
+    ]
+}
