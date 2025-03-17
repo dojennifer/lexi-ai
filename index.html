@@ -269,6 +269,7 @@
             align-self: flex-start;
             background-color: var(--assistant-message-bg);
             border: 1px solid var(--assistant-message-border);
+            padding: 20px; /* Increase padding for better readability */
         }
         
         /* Loader animation */
@@ -408,6 +409,98 @@
         [data-theme="dark"] a {
             color: #8ab4f8; /* Lighter blue for dark mode */
         }
+        
+        /* Citation styles */
+        .message-citations {
+            margin-top: 15px;
+            font-size: 14px;
+            color: var(--secondary-color);
+        }
+        
+        /* Markdown styling */
+        .assistant-message h3 {
+            font-size: 1.3em;
+            margin: 16px 0 8px 0;
+            font-weight: 600;
+        }
+        
+        /* Style for verdict and reasoning sections */
+        .assistant-message h3.verdict-heading {
+            color: var(--primary-color);
+            border-bottom: 1px solid var(--card-border);
+            padding-bottom: 6px;
+        }
+        
+        .assistant-message h3.reasoning-heading {
+            color: var(--primary-color);
+            border-bottom: 1px solid var(--card-border);
+            padding-bottom: 6px;
+        }
+        
+        .assistant-message strong {
+            font-weight: 600;
+        }
+        
+        .assistant-message ol, .assistant-message ul {
+            margin: 8px 0;
+            padding-left: 25px;
+        }
+        
+        .assistant-message li {
+            margin-bottom: 6px;
+            line-height: 1.5;
+        }
+        
+        .assistant-message p {
+            margin: 8px 0;
+            line-height: 1.5;
+        }
+        
+        .assistant-message {
+            line-height: 1.5;
+            font-size: 16px;
+        }
+        
+        .message-citations hr {
+            border: none;
+            border-top: 1px solid var(--card-border);
+            margin: 10px 0;
+        }
+        
+        .message-citations h4 {
+            margin: 10px 0;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        
+        .citation-list {
+            margin: 5px 0;
+            padding-left: 25px;
+        }
+        
+        .citation-list li {
+            margin-bottom: 5px;
+        }
+        
+        /* Style for reasoning points */
+        .reasoning-point {
+            margin: 10px 0;
+            padding: 8px 0;
+        }
+        
+        .reasoning-point-number {
+            font-weight: 600;
+            color: var(--primary-color);
+            margin-right: 8px;
+        }
+        
+        /* Confidence interval styling */
+        .confidence-interval {
+            font-style: italic;
+            color: var(--secondary-color);
+            margin-top: 4px;
+            margin-bottom: 12px;
+        }
     </style>
 </head>
 <body>
@@ -470,7 +563,7 @@
         </div>
         
         <div class="attribution">
-            <div>Developed by <a href="https://www.linkedin.com/in/do-jennifer/" target="_blank">Jennifer Do</a></div>
+            <div>Developed by <a href="https://www.linkedin.com/in/jordanpatel1998/" target="_blank">Jordan Patel</a></div>
         </div>
         
         <div class="disclaimer">
@@ -479,6 +572,11 @@
     </div>
     
     <script>
+        // Helper function to escape special characters for regex
+        function escapeRegExp(string) {
+            return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
+        }
+        
         // Theme toggle
         const themeToggle = document.getElementById('themeToggle');
         // Set initial icon for dark mode
@@ -544,7 +642,7 @@
         }
         
         // Hardcoded response about LexiAI
-        const whoMadeResponse = `LexiAI, developed by <a href="https://www.linkedin.com/in/do-jennifer/" target="_blank">Jennifer Do</a>, is an AI-powered chatbot designed to assist with underwriting regulations in Ontario's auto insurance industry. Acting as an expert representative of the Financial Services Regulatory Authority of Ontario (FSRA), LexiAI answers complex underwriting queries from insurers, consumers, and FSRA employees, ensuring decisions align with regulatory standards.
+        const whoMadeResponse = `LexiAI, developed by <a href="https://www.linkedin.com/in/jordanpatel1998/" target="_blank">Jordan Patel</a>, is an AI-powered chatbot designed to assist with underwriting regulations in Ontario's auto insurance industry. Acting as an expert representative of the Financial Services Regulatory Authority of Ontario (FSRA), LexiAI answers complex underwriting queries from insurers, consumers, and FSRA employees, ensuring decisions align with regulatory standards.
         
         LexiAI was built to address two primary use cases:
         
@@ -612,6 +710,31 @@
             
             // Default response
             return "I understand you're asking about underwriting regulations. Due to temporary connectivity issues, I can only provide limited responses. Please try again later when the system is fully operational, or ask a different question I might be able to help with.";
+        }
+        
+        async function fetchCitationMappings() {
+            try {
+                const response = await fetch("/public/citation_mappings.json");
+                if (!response.ok) {
+                    console.error("Failed to load citation mappings:", response.status);
+                    return {};
+                }
+                const data = await response.json();
+                
+                // Convert the array to an object keyed by filename for easy lookup
+                const mappings = {};
+                data.mappings.forEach(item => {
+                    mappings[item.filename] = {
+                        display_name: item.display_name,
+                        source_url: item.source_url
+                    };
+                });
+                
+                return mappings;
+            } catch (error) {
+                console.error("Error loading citation mappings:", error);
+                return {};
+            }
         }
         
         async function sendMessage() {
@@ -799,24 +922,281 @@
                         
                         // Process the message content based on its type
                         let formattedContent = "";
-                        assistantMessage.content.forEach(content => {
+                        let citations = [];
+                        
+                        // Process all content items from the message
+                        for (const content of assistantMessage.content) {
                             if (content.type === "text") {
-                                // Convert line breaks and format code blocks
+                                // Get the text content and annotations
                                 let text = content.text.value;
+                                const annotations = content.text.annotations || [];
+                                
+                                // Process annotations (citations) if present
+                                if (annotations && annotations.length > 0) {
+                                    let citationIndex = 0;
+                                    
+                                    // Create an array to track positions where text needs to be replaced
+                                    // This avoids issues with multiple replacements changing string offsets
+                                    const replacements = [];
+                                    
+                                    // Process each annotation
+                                    for (const annotation of annotations) {
+                                        // Get the citation text and its position
+                                        const citationText = annotation.text;
+                                        
+                                        // If it's a file citation
+                                        if (annotation.file_citation) {
+                                            const fileId = annotation.file_citation.file_id;
+                                            // Use 1-based indexing for display
+                                            const displayIndex = citationIndex + 1;
+                                            const citationMarker = `[${displayIndex}]`;
+                                            
+                                            // Add to replacements array
+                                            replacements.push({
+                                                text: citationText,
+                                                replacement: citationMarker
+                                            });
+                                            
+                                            // Add to citations array
+                                            citations.push({
+                                                index: citationIndex,
+                                                displayIndex: displayIndex,
+                                                fileId: fileId
+                                            });
+                                            
+                                            citationIndex++;
+                                        }
+                                    }
+                                    
+                                    // Apply all replacements
+                                    // Replace all instances of citation text with the citation markers
+                                    replacements.forEach(({ text: citationText, replacement }) => {
+                                        // Use a regex to globally replace all instances of the citation text
+                                        const regex = new RegExp(escapeRegExp(citationText), 'g');
+                                        text = text.replace(regex, replacement);
+                                    });
+                                }
                                 
                                 // Format code blocks
                                 text = text.replace(/```(\w*)([\s\S]*?)```/g, function(match, language, code) {
                                     return `<div class="pre-formatted">${code.trim()}</div>`;
                                 });
                                 
-                                // Convert line breaks
-                                text = text.replace(/\n/g, "<br>");
+                                // Format markdown headings (### Heading) with special classes for verdict and reasoning
+                                text = text.replace(/^###\s+(.*?)$/gm, function(match, heading) {
+                                    if (heading.toLowerCase().includes('verdict')) {
+                                        return `<h3 class="verdict-heading">${heading}</h3>`;
+                                    } else if (heading.toLowerCase().includes('reasoning')) {
+                                        return `<h3 class="reasoning-heading">${heading}</h3>`;
+                                    } else {
+                                        return `<h3>${heading}</h3>`;
+                                    }
+                                });
+                                
+                                // Format numbered reasons with special styling (e.g., "1. **Subjectivity and Arbitrary Nature**:")
+                                text = text.replace(/(\d+)\.\s+\*\*(.*?)\*\*\s*:\s*(.*?)(?=(\n\d+\.\s+\*\*|\n### |\n$|$))/gs, 
+                                    function(match, number, title, content) {
+                                        return `<div class="reasoning-point">
+                                            <span class="reasoning-point-number">${number}.</span>
+                                            <strong>${title}</strong>: ${content.trim()}
+                                        </div>`;
+                                    });
+                                
+                                // Format confidence interval patterns like "**Confidence Interval: 9/10**"
+                                text = text.replace(/\*\*Confidence Interval:?\s*([\d\.\/]+)\*\*/gi, 
+                                    '<div class="confidence-interval">Confidence Interval: $1</div>');
+                                
+                                // Format verdict patterns
+                                text = text.replace(/\*\*Not Compliant\*\*/gi, 
+                                    '<strong style="color: var(--primary-color);">Not Compliant</strong>');
+                                
+                                // Format bold text (**text**)
+                                text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+                                
+                                // Handle consecutive numbered list items more effectively
+                                let inNumberedList = false;
+                                const lines = text.split('\n');
+                                const processedLines = [];
+                                
+                                for (let i = 0; i < lines.length; i++) {
+                                    const line = lines[i];
+                                    const numberedListMatch = line.match(/^(\d+)\.\s+(.*?)$/);
+                                    
+                                    if (numberedListMatch) {
+                                        if (!inNumberedList) {
+                                            // Start a new list
+                                            inNumberedList = true;
+                                            processedLines.push(`<ol start="${numberedListMatch[1]}">`);
+                                        }
+                                        // Add list item
+                                        processedLines.push(`<li>${numberedListMatch[2]}</li>`);
+                                    } else {
+                                        if (inNumberedList) {
+                                            // Close the list
+                                            inNumberedList = false;
+                                            processedLines.push('</ol>');
+                                        }
+                                        processedLines.push(line);
+                                    }
+                                }
+                                
+                                // Close any open list
+                                if (inNumberedList) {
+                                    processedLines.push('</ol>');
+                                }
+                                
+                                text = processedLines.join('\n');
+                                
+                                // Handle bullet lists in a similar way
+                                inNumberedList = false;
+                                const bulletLines = text.split('\n');
+                                const processedBulletLines = [];
+                                
+                                for (let i = 0; i < bulletLines.length; i++) {
+                                    const line = bulletLines[i];
+                                    const bulletListMatch = line.match(/^\*\s+(.*?)$/);
+                                    
+                                    if (bulletListMatch) {
+                                        if (!inNumberedList) {
+                                            // Start a new list
+                                            inNumberedList = true;
+                                            processedBulletLines.push('<ul>');
+                                        }
+                                        // Add list item
+                                        processedBulletLines.push(`<li>${bulletListMatch[1]}</li>`);
+                                    } else {
+                                        if (inNumberedList) {
+                                            // Close the list
+                                            inNumberedList = false;
+                                            processedBulletLines.push('</ul>');
+                                        }
+                                        processedBulletLines.push(line);
+                                    }
+                                }
+                                
+                                // Close any open list
+                                if (inNumberedList) {
+                                    processedBulletLines.push('</ul>');
+                                }
+                                
+                                text = processedBulletLines.join('\n');
+                                
+                                // Convert line breaks (but not inside HTML elements)
+                                text = text.replace(/(?<!\>)\n(?!\<)/g, "<br>");
                                 
                                 formattedContent += text;
                             }
-                        });
+                        }
                         
+                        // Add the formatted content to the message
                         assistantDiv.innerHTML = formattedContent;
+                        
+                        // If we have citations, fetch and display them
+                        if (citations.length > 0) {
+                            const citationsDiv = document.createElement("div");
+                            citationsDiv.className = "message-citations";
+                            citationsDiv.innerHTML = "<hr><h4>Sources:</h4><ol class='citation-list'></ol>";
+                            const citationsList = citationsDiv.querySelector('.citation-list');
+                            
+                            // Process each citation asynchronously
+                            const processCitations = async () => {
+                                // First fetch the citation mappings
+                                const citationMappings = await fetchCitationMappings();
+                                
+                                // Create an array to hold all citation items until we're ready to add them
+                                const citationItems = new Array(citations.length);
+                                
+                                // Process all citations
+                                const processPromises = citations.map(async (citation) => {
+                                    try {
+                                        // Fetch file information
+                                        const fileResponse = await fetch("/.netlify/functions/openai-proxy", {
+                                            method: "POST",
+                                            headers: { "Content-Type": "application/json" },
+                                            body: JSON.stringify({ 
+                                                action: "retrieveFile", 
+                                                fileId: citation.fileId
+                                            })
+                                        });
+                                        
+                                        const fileData = await fileResponse.json();
+                                        const filename = fileData.file.filename;
+                                        
+                                        // Create citation item
+                                        const citationItem = document.createElement("li");
+                                        citationItem.value = citation.displayIndex || (citation.index + 1); // Ensure 1-based numbering
+                                        
+                                        // Normalize the filename for more robust matching
+                                        // 1. Get basename without extension (if any)
+                                        const basename = filename.split('.')[0] || filename;
+                                        
+                                        // 2. Try multiple matching strategies
+                                        let found = false;
+                                        let mapping = null;
+                                        
+                                        // First try exact match
+                                        if (citationMappings[filename]) {
+                                            mapping = citationMappings[filename];
+                                            found = true;
+                                        } 
+                                        // Then try basename match
+                                        else if (citationMappings[basename]) {
+                                            mapping = citationMappings[basename];
+                                            found = true;
+                                        } 
+                                        // If still not found, try finding by partial match
+                                        else {
+                                            for (const key in citationMappings) {
+                                                // Check if key starts with or contains the basename
+                                                if (key.includes(basename) || basename.includes(key)) {
+                                                    mapping = citationMappings[key];
+                                                    found = true;
+                                                    break;
+                                                }
+                                            }
+                                        }
+                                        
+                                        // Display citation with proper formatting
+                                        if (found && mapping) {
+                                            citationItem.innerHTML = `<a href="${mapping.source_url}" target="_blank">${mapping.display_name}</a>`;
+                                        } else {
+                                            // If no mapping is found, just show the filename
+                                            console.warn(`No mapping found for filename: ${filename}`);
+                                            citationItem.textContent = filename;
+                                        }
+                                        
+                                        // Store the item in the correct position in our array
+                                        citationItems[citation.index] = citationItem;
+                                    } catch (error) {
+                                        console.error("Error fetching citation:", error);
+                                        const citationItem = document.createElement("li");
+                                        // Use 1-based indexing for the display
+                                        citationItem.value = citation.displayIndex || (citation.index + 1);
+                                        citationItem.textContent = `Citation ${citation.displayIndex || (citation.index + 1)} (Unable to retrieve details)`;
+                                        
+                                        // Store the error item in the correct position
+                                        citationItems[citation.index] = citationItem;
+                                    }
+                                });
+                                
+                                // Wait for all citations to be processed
+                                await Promise.all(processPromises);
+                                
+                                // Now add all citation items to the list in the correct order
+                                citationItems.forEach(item => {
+                                    if (item) {
+                                        citationsList.appendChild(item);
+                                    }
+                                });
+                            };
+                            
+                            // Start processing citations
+                            processCitations();
+                            
+                            // Add citations div to the message
+                            assistantDiv.appendChild(citationsDiv);
+                        }
+                        
                         chatMessages.appendChild(assistantDiv);
                     } else {
                         const errorDiv = document.createElement("div");
