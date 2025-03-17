@@ -93,6 +93,19 @@ exports.handler = async function(event, context) {
           body: JSON.stringify({ messages: response.data.data })
         };
         
+      case 'retrieveFile':
+        if (!body.fileId) {
+          return { statusCode: 400, body: JSON.stringify({ error: 'Missing fileId' }) };
+        }
+        
+        response = await axios.get(`https://api.openai.com/v1/files/${body.fileId}`,
+          { headers }
+        );
+        return {
+          statusCode: 200,
+          body: JSON.stringify({ file: response.data })
+        };
+        
       default:
         return {
           statusCode: 400,
